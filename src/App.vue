@@ -61,11 +61,17 @@ const rgbString = (rgb) => rgb ? `rgb(${rgb.join(',')})` : 'transparent'
       
     </main>
     
-    <footer class="mt-12 text-center text-xs text-gray-300 pb-4 flex flex-col items-center gap-2">
-      <a href="https://kigis.me" target="_blank" class="text-blue-400 hover:text-blue-300 transition-colors">
-        MEIS 莓萌 (Kigurumi Studio)
-      </a>
-      <span>© 2026 Nijino IOT & MEIS</span>
+    <footer class="mt-12 text-center text-xs text-gray-300 pb-8 flex flex-col items-center gap-2">
+      <div class="flex gap-4">
+        <a href="https://kigis.me" target="_blank" class="text-fuchsia-400 hover:text-fuchsia-300 transition-colors font-medium">
+          MEIS 莓萌
+        </a>
+        <span class="text-gray-200">|</span>
+        <a href="https://github.com/nijino-iot/wig-color-matcher" target="_blank" class="text-fuchsia-400 hover:text-fuchsia-300 transition-colors font-medium">
+          GitHub
+        </a>
+      </div>
+      <span class="opacity-50">© 2026 Nijino IOT & MEIS</span>
     </footer>
   </div>
 </template>
