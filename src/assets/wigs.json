@@ -1,0 +1,6668 @@
+[
+  {
+    "brand": "漫美纯色",
+    "code": "20",
+    "color_name": "亚麻金",
+    "rgb": [
+      195,
+      173,
+      133
+    ],
+    "filename": "漫美纯色20亚麻金.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "017",
+    "color_name": "丁字茶",
+    "rgb": [
+      110,
+      81,
+      71
+    ],
+    "filename": "曼柒017#丁字茶.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C082",
+    "color_name": "紫薯粉",
+    "rgb": [
+      181,
+      103,
+      133
+    ],
+    "filename": "漫供C082紫薯粉.png"
+  },
+  {
+    "brand": "千型",
+    "code": "M",
+    "color_name": "",
+    "rgb": [
+      153,
+      180,
+      207
+    ],
+    "filename": "千型M.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "24C",
+    "color_name": "橘色C",
+    "rgb": [
+      238,
+      115,
+      63
+    ],
+    "filename": "秀琴24C橘色C.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1855",
+    "color_name": "红色1B",
+    "rgb": [
+      233,
+      81,
+      173
+    ],
+    "filename": "秀琴1855红色1B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "5914绿3",
+    "color_name": "B",
+    "rgb": [
+      46,
+      69,
+      77
+    ],
+    "filename": "秀琴5914绿3#B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1150橘1",
+    "color_name": "B",
+    "rgb": [
+      220,
+      140,
+      82
+    ],
+    "filename": "秀琴1150橘1#B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "059",
+    "color_name": "北瓜黄",
+    "rgb": [
+      227,
+      139,
+      50
+    ],
+    "filename": "曼柒059#北瓜黄.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "13",
+    "color_name": "纯白",
+    "rgb": [
+      233,
+      233,
+      234
+    ],
+    "filename": "漫舞13纯白.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "051",
+    "color_name": "黄百合",
+    "rgb": [
+      218,
+      199,
+      152
+    ],
+    "filename": "曼柒051#黄百合.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "167",
+    "color_name": "蔷薇",
+    "rgb": [
+      217,
+      28,
+      93
+    ],
+    "filename": "曼柒167#蔷薇.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C004",
+    "color_name": "沙金色",
+    "rgb": [
+      251,
+      233,
+      176
+    ],
+    "filename": "漫供C004沙金色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "078",
+    "color_name": "柠檬绿",
+    "rgb": [
+      202,
+      228,
+      118
+    ],
+    "filename": "曼柒078#柠檬绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "154",
+    "color_name": "京紫",
+    "rgb": [
+      63,
+      33,
+      68
+    ],
+    "filename": "曼柒154#京紫.png"
+  },
+  {
+    "brand": "千型",
+    "code": "3",
+    "color_name": "黑棕色",
+    "rgb": [
+      57,
+      52,
+      51
+    ],
+    "filename": "千型3黑棕色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C025",
+    "color_name": "幽绿",
+    "rgb": [
+      71,
+      131,
+      145
+    ],
+    "filename": "漫供C025幽绿.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "0220",
+    "color_name": "蓝绿色B",
+    "rgb": [
+      153,
+      205,
+      146
+    ],
+    "filename": "秀琴0220蓝绿色B.png"
+  },
+  {
+    "brand": "千型",
+    "code": "26",
+    "color_name": "黑灰混色",
+    "rgb": [
+      51,
+      49,
+      51
+    ],
+    "filename": "千型26黑灰混色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z022",
+    "color_name": "土黄",
+    "rgb": [
+      194,
+      166,
+      125
+    ],
+    "filename": "漫供Z022土黄.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "141",
+    "color_name": "蓝光紫",
+    "rgb": [
+      155,
+      109,
+      170
+    ],
+    "filename": "曼柒141#蓝光紫.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "0809",
+    "color_name": "亚麻色B",
+    "rgb": [
+      218,
+      205,
+      182
+    ],
+    "filename": "秀琴0809亚麻色B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "099",
+    "color_name": "",
+    "rgb": [
+      164,
+      196,
+      228
+    ],
+    "filename": "曼柒099#.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C063",
+    "color_name": "藤紫",
+    "rgb": [
+      114,
+      105,
+      157
+    ],
+    "filename": "漫供C063藤紫.png"
+  },
+  {
+    "brand": "千型",
+    "code": "10",
+    "color_name": "墨蓝色",
+    "rgb": [
+      49,
+      52,
+      60
+    ],
+    "filename": "千型10墨蓝色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "181",
+    "color_name": "红梅粉",
+    "rgb": [
+      200,
+      155,
+      166
+    ],
+    "filename": "曼柒181#红梅粉.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "852",
+    "color_name": "黄色2C",
+    "rgb": [
+      247,
+      203,
+      84
+    ],
+    "filename": "秀琴852黄色2C.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z008",
+    "color_name": "棕色",
+    "rgb": [
+      129,
+      97,
+      66
+    ],
+    "filename": "漫供Z008棕色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H005",
+    "color_name": "",
+    "rgb": [
+      151,
+      83,
+      110
+    ],
+    "filename": "漫供H005.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4516",
+    "color_name": "蓝3C",
+    "rgb": [
+      110,
+      198,
+      241
+    ],
+    "filename": "秀琴4516蓝3C.png"
+  },
+  {
+    "brand": "千型",
+    "code": "24",
+    "color_name": "",
+    "rgb": [
+      184,
+      149,
+      87
+    ],
+    "filename": "千型24.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "083",
+    "color_name": "灰绿色",
+    "rgb": [
+      89,
+      100,
+      86
+    ],
+    "filename": "曼柒083#灰绿色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1630粉2",
+    "color_name": "B",
+    "rgb": [
+      226,
+      154,
+      146
+    ],
+    "filename": "秀琴1630粉2#B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "192",
+    "color_name": "退粉紫",
+    "rgb": [
+      184,
+      167,
+      193
+    ],
+    "filename": "曼柒192#退粉紫.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C012",
+    "color_name": "紫粉",
+    "rgb": [
+      241,
+      162,
+      235
+    ],
+    "filename": "漫供C012紫粉.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "079",
+    "color_name": "亮柠檬",
+    "rgb": [
+      228,
+      232,
+      130
+    ],
+    "filename": "曼柒079#亮柠檬.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2403A紫1",
+    "color_name": "A",
+    "rgb": [
+      178,
+      136,
+      212
+    ],
+    "filename": "秀琴2403A紫1#A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4027蓝2",
+    "color_name": "A（蓝色1D）",
+    "rgb": [
+      24,
+      52,
+      91
+    ],
+    "filename": "秀琴4027蓝2#A（蓝色1D）.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C104",
+    "color_name": "",
+    "rgb": [
+      131,
+      45,
+      104
+    ],
+    "filename": "漫供C104.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "3",
+    "color_name": "黑色C",
+    "rgb": [
+      29,
+      23,
+      23
+    ],
+    "filename": "秀琴3黑色C.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C014",
+    "color_name": "水粉",
+    "rgb": [
+      246,
+      194,
+      209
+    ],
+    "filename": "漫供C014水粉.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "T3930",
+    "color_name": "蓝色A",
+    "rgb": [
+      143,
+      161,
+      202
+    ],
+    "filename": "秀琴T3930蓝色A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1001A",
+    "color_name": "白色C",
+    "rgb": [
+      210,
+      210,
+      213
+    ],
+    "filename": "秀琴1001A白色C.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2610",
+    "color_name": "绿1C",
+    "rgb": [
+      37,
+      79,
+      72
+    ],
+    "filename": "秀琴2610绿1C.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "22",
+    "color_name": "浅灰蓝",
+    "rgb": [
+      122,
+      134,
+      151
+    ],
+    "filename": "漫舞22浅灰蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C077",
+    "color_name": "金苹果黄",
+    "rgb": [
+      242,
+      219,
+      146
+    ],
+    "filename": "漫供C077金苹果黄.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "087",
+    "color_name": "湖绿彩",
+    "rgb": [
+      53,
+      89,
+      78
+    ],
+    "filename": "曼柒087#湖绿彩.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1707粉3",
+    "color_name": "A",
+    "rgb": [
+      206,
+      182,
+      179
+    ],
+    "filename": "秀琴1707粉3#A.png"
+  },
+  {
+    "brand": "千型",
+    "code": "G",
+    "color_name": "",
+    "rgb": [
+      146,
+      61,
+      50
+    ],
+    "filename": "千型G.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C111",
+    "color_name": "",
+    "rgb": [
+      104,
+      55,
+      53
+    ],
+    "filename": "漫供C111.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C056",
+    "color_name": "枣红",
+    "rgb": [
+      118,
+      66,
+      75
+    ],
+    "filename": "漫供C056枣红.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C089",
+    "color_name": "豆绿",
+    "rgb": [
+      122,
+      208,
+      158
+    ],
+    "filename": "漫供C089豆绿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C023",
+    "color_name": "暖橘色",
+    "rgb": [
+      240,
+      137,
+      82
+    ],
+    "filename": "漫供C023暖橘色.png"
+  },
+  {
+    "brand": "秀琴银灰白色",
+    "code": "D",
+    "color_name": "",
+    "rgb": [
+      174,
+      174,
+      174
+    ],
+    "filename": "秀琴银灰白色D.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C040",
+    "color_name": "冰蓝色",
+    "rgb": [
+      193,
+      207,
+      248
+    ],
+    "filename": "漫供C040冰蓝色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "117",
+    "color_name": "青花瓷",
+    "rgb": [
+      33,
+      41,
+      82
+    ],
+    "filename": "曼柒117#青花瓷.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "183",
+    "color_name": "肌粉",
+    "rgb": [
+      222,
+      188,
+      184
+    ],
+    "filename": "曼柒183#肌粉.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "24",
+    "color_name": "浅绿",
+    "rgb": [
+      190,
+      214,
+      172
+    ],
+    "filename": "漫美纯24浅绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "150",
+    "color_name": "藤紫色",
+    "rgb": [
+      100,
+      84,
+      143
+    ],
+    "filename": "曼柒150#藤紫色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C091",
+    "color_name": "茶黄",
+    "rgb": [
+      135,
+      118,
+      69
+    ],
+    "filename": "漫供C091茶黄.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "128",
+    "color_name": "浅莲粉",
+    "rgb": [
+      217,
+      205,
+      217
+    ],
+    "filename": "曼柒128#浅莲粉.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C073",
+    "color_name": "水晶蓝",
+    "rgb": [
+      119,
+      192,
+      231
+    ],
+    "filename": "漫供C073水晶蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "045",
+    "color_name": "霜白色",
+    "rgb": [
+      194,
+      187,
+      169
+    ],
+    "filename": "曼柒045#霜白色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "074",
+    "color_name": "鹞色",
+    "rgb": [
+      188,
+      171,
+      60
+    ],
+    "filename": "曼柒074#鹞色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C065",
+    "color_name": "天空蓝",
+    "rgb": [
+      154,
+      168,
+      204
+    ],
+    "filename": "漫供C065天空蓝.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "07",
+    "color_name": "咖啡",
+    "rgb": [
+      44,
+      34,
+      30
+    ],
+    "filename": "漫舞07咖啡.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "050",
+    "color_name": "淡黄色",
+    "rgb": [
+      226,
+      203,
+      136
+    ],
+    "filename": "曼柒050#淡黄色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C044",
+    "color_name": "亚麻灰青",
+    "rgb": [
+      129,
+      133,
+      134
+    ],
+    "filename": "漫供C044亚麻灰青.png"
+  },
+  {
+    "brand": "千型",
+    "code": "13",
+    "color_name": "",
+    "rgb": [
+      104,
+      77,
+      53
+    ],
+    "filename": "千型13.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "147",
+    "color_name": "紫罗兰",
+    "rgb": [
+      136,
+      109,
+      127
+    ],
+    "filename": "曼柒147#紫罗兰.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z014",
+    "color_name": "粉卡其色",
+    "rgb": [
+      165,
+      125,
+      92
+    ],
+    "filename": "漫供Z014粉卡其色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C066",
+    "color_name": "瓷青",
+    "rgb": [
+      191,
+      219,
+      213
+    ],
+    "filename": "漫供C066瓷青.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "101",
+    "color_name": "暗蟹青",
+    "rgb": [
+      36,
+      59,
+      64
+    ],
+    "filename": "曼柒101#暗蟹青.png"
+  },
+  {
+    "brand": "千型",
+    "code": "23",
+    "color_name": "",
+    "rgb": [
+      64,
+      140,
+      136
+    ],
+    "filename": "千型23.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "133",
+    "color_name": "木槿紫",
+    "rgb": [
+      181,
+      137,
+      188
+    ],
+    "filename": "曼柒133#木槿紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "121",
+    "color_name": "藤紫",
+    "rgb": [
+      79,
+      78,
+      140
+    ],
+    "filename": "曼柒121#藤紫.png"
+  },
+  {
+    "brand": "千型",
+    "code": "9",
+    "color_name": "",
+    "rgb": [
+      79,
+      117,
+      190
+    ],
+    "filename": "千型9.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z007",
+    "color_name": "深棕色",
+    "rgb": [
+      136,
+      99,
+      76
+    ],
+    "filename": "漫供Z007深棕色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C079",
+    "color_name": "古铜色",
+    "rgb": [
+      167,
+      97,
+      62
+    ],
+    "filename": "漫供C079古铜色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "130",
+    "color_name": "鸠羽紫",
+    "rgb": [
+      204,
+      159,
+      203
+    ],
+    "filename": "曼柒130#鸠羽紫.png"
+  },
+  {
+    "brand": "千型",
+    "code": "6",
+    "color_name": "",
+    "rgb": [
+      176,
+      125,
+      90
+    ],
+    "filename": "千型6.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "33黑棕1",
+    "color_name": "B",
+    "rgb": [
+      78,
+      58,
+      49
+    ],
+    "filename": "秀琴33黑棕1#B.png"
+  },
+  {
+    "brand": "千型",
+    "code": "A",
+    "color_name": "",
+    "rgb": [
+      241,
+      227,
+      195
+    ],
+    "filename": "千型A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "097",
+    "color_name": "苍青",
+    "rgb": [
+      78,
+      107,
+      109
+    ],
+    "filename": "曼柒097#苍青.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "172",
+    "color_name": "暗紫",
+    "rgb": [
+      55,
+      40,
+      56
+    ],
+    "filename": "曼柒172#暗紫.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2202",
+    "color_name": "橘色D",
+    "rgb": [
+      237,
+      98,
+      52
+    ],
+    "filename": "秀琴2202橘色D.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C011",
+    "color_name": "西瓜粉",
+    "rgb": [
+      240,
+      140,
+      151
+    ],
+    "filename": "漫供C011西瓜粉.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4127蓝3",
+    "color_name": "A",
+    "rgb": [
+      105,
+      149,
+      173
+    ],
+    "filename": "秀琴4127蓝3#A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C045",
+    "color_name": "幽蓝",
+    "rgb": [
+      94,
+      121,
+      134
+    ],
+    "filename": "漫供C045幽蓝.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "08",
+    "color_name": "海王红",
+    "rgb": [
+      121,
+      42,
+      34
+    ],
+    "filename": "漫舞08海王红.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "0403灰1",
+    "color_name": "B",
+    "rgb": [
+      87,
+      87,
+      89
+    ],
+    "filename": "秀琴0403灰1#B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "144",
+    "color_name": "黄色D",
+    "rgb": [
+      206,
+      167,
+      75
+    ],
+    "filename": "秀琴144黄色D.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C031",
+    "color_name": "紫黑色",
+    "rgb": [
+      62,
+      58,
+      85
+    ],
+    "filename": "漫供C031紫黑色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "106",
+    "color_name": "水蓝",
+    "rgb": [
+      96,
+      188,
+      219
+    ],
+    "filename": "曼柒106#水蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "158",
+    "color_name": "浅苏芳",
+    "rgb": [
+      150,
+      64,
+      80
+    ],
+    "filename": "曼柒158#浅苏芳.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "28C",
+    "color_name": "蓝绿色A",
+    "rgb": [
+      174,
+      219,
+      223
+    ],
+    "filename": "秀琴28C蓝绿色A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4",
+    "color_name": "黑色D",
+    "rgb": [
+      40,
+      28,
+      24
+    ],
+    "filename": "秀琴4黑色D.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "5",
+    "color_name": "正红",
+    "rgb": [
+      165,
+      45,
+      39
+    ],
+    "filename": "漫美纯色5正红.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "084",
+    "color_name": "苔绿色",
+    "rgb": [
+      75,
+      81,
+      44
+    ],
+    "filename": "曼柒084#苔绿色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "046",
+    "color_name": "练色",
+    "rgb": [
+      211,
+      204,
+      176
+    ],
+    "filename": "曼柒046#练色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "27",
+    "color_name": "",
+    "rgb": [
+      39,
+      30,
+      27
+    ],
+    "filename": "千型27.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "015",
+    "color_name": "利久茶",
+    "rgb": [
+      85,
+      74,
+      58
+    ],
+    "filename": "曼柒015#利久茶.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2411紫2",
+    "color_name": "B（紫色C）",
+    "rgb": [
+      105,
+      56,
+      155
+    ],
+    "filename": "秀琴2411紫2#B（紫色C）.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z002",
+    "color_name": "白色",
+    "rgb": [
+      230,
+      230,
+      230
+    ],
+    "filename": "漫供Z002白色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z009",
+    "color_name": "红褐色",
+    "rgb": [
+      61,
+      40,
+      37
+    ],
+    "filename": "漫供Z009红褐色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1001银白1",
+    "color_name": "B",
+    "rgb": [
+      223,
+      224,
+      232
+    ],
+    "filename": "秀琴1001银白1#B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "042",
+    "color_name": "",
+    "rgb": [
+      172,
+      137,
+      108
+    ],
+    "filename": "曼柒042#.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "28",
+    "color_name": "蓝紫",
+    "rgb": [
+      161,
+      166,
+      205
+    ],
+    "filename": "漫美纯28蓝紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "005",
+    "color_name": "深灰色",
+    "rgb": [
+      71,
+      71,
+      70
+    ],
+    "filename": "曼柒005#深灰色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "25",
+    "color_name": "",
+    "rgb": [
+      160,
+      48,
+      35
+    ],
+    "filename": "千型25.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "164",
+    "color_name": "红梅",
+    "rgb": [
+      171,
+      99,
+      133
+    ],
+    "filename": "曼柒164#红梅.png"
+  },
+  {
+    "brand": "漫美混色",
+    "code": "1",
+    "color_name": "粉混白白多",
+    "rgb": [
+      239,
+      227,
+      233
+    ],
+    "filename": "漫美混色1粉混白白多.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "30B",
+    "color_name": "棕色C",
+    "rgb": [
+      100,
+      65,
+      41
+    ],
+    "filename": "秀琴30B棕色C.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "0210",
+    "color_name": "青灰色A",
+    "rgb": [
+      205,
+      201,
+      179
+    ],
+    "filename": "秀琴0210青灰色A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C109",
+    "color_name": "",
+    "rgb": [
+      158,
+      200,
+      137
+    ],
+    "filename": "漫供C109.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H012",
+    "color_name": "",
+    "rgb": [
+      140,
+      93,
+      174
+    ],
+    "filename": "漫供H012.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "111",
+    "color_name": "织锦灰",
+    "rgb": [
+      164,
+      168,
+      179
+    ],
+    "filename": "曼柒111#织锦灰.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1B黑棕1",
+    "color_name": "A",
+    "rgb": [
+      21,
+      26,
+      31
+    ],
+    "filename": "秀琴1B黑棕1#A.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "11",
+    "color_name": "正紫",
+    "rgb": [
+      83,
+      58,
+      101
+    ],
+    "filename": "漫舞11正紫.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "09",
+    "color_name": "中咖",
+    "rgb": [
+      140,
+      75,
+      50
+    ],
+    "filename": "漫舞09中咖.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z020",
+    "color_name": "麦穗黄",
+    "rgb": [
+      221,
+      163,
+      108
+    ],
+    "filename": "漫供Z020麦穗黄.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "077",
+    "color_name": "鹞萌木",
+    "rgb": [
+      130,
+      161,
+      57
+    ],
+    "filename": "曼柒077#鹞萌木.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2C",
+    "color_name": "黄色2B",
+    "rgb": [
+      247,
+      202,
+      83
+    ],
+    "filename": "秀琴2C黄色2B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "T1031",
+    "color_name": "黄色B",
+    "rgb": [
+      227,
+      200,
+      137
+    ],
+    "filename": "秀琴T1031黄色B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "186",
+    "color_name": "红橙",
+    "rgb": [
+      189,
+      74,
+      84
+    ],
+    "filename": "曼柒186#红橙.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z023",
+    "color_name": "红豆沙",
+    "rgb": [
+      145,
+      86,
+      65
+    ],
+    "filename": "漫供Z023红豆沙.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "134",
+    "color_name": "粉紫色",
+    "rgb": [
+      166,
+      135,
+      193
+    ],
+    "filename": "曼柒134#粉紫色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "E",
+    "color_name": "",
+    "rgb": [
+      164,
+      176,
+      206
+    ],
+    "filename": "千型E.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "13",
+    "color_name": "深蓝",
+    "rgb": [
+      38,
+      74,
+      141
+    ],
+    "filename": "漫美纯色13深蓝.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "16",
+    "color_name": "橘粉",
+    "rgb": [
+      219,
+      182,
+      167
+    ],
+    "filename": "漫舞16橘粉.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C034",
+    "color_name": "魅惑紫粉紫",
+    "rgb": [
+      233,
+      191,
+      231
+    ],
+    "filename": "漫供C034魅惑紫粉紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "162",
+    "color_name": "紫酱",
+    "rgb": [
+      139,
+      96,
+      95
+    ],
+    "filename": "曼柒162#紫酱.png"
+  },
+  {
+    "brand": "千型",
+    "code": "V",
+    "color_name": "",
+    "rgb": [
+      41,
+      49,
+      92
+    ],
+    "filename": "千型V.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2D",
+    "color_name": "橘色B",
+    "rgb": [
+      240,
+      145,
+      68
+    ],
+    "filename": "秀琴2D橘色B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "30棕2",
+    "color_name": "B",
+    "rgb": [
+      102,
+      67,
+      47
+    ],
+    "filename": "秀琴30棕2#B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "123",
+    "color_name": "空色",
+    "rgb": [
+      145,
+      160,
+      199
+    ],
+    "filename": "曼柒123#空色.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "18",
+    "color_name": "初音绿",
+    "rgb": [
+      76,
+      138,
+      145
+    ],
+    "filename": "漫美纯色18初音绿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C083",
+    "color_name": "藕粉灰",
+    "rgb": [
+      188,
+      179,
+      179
+    ],
+    "filename": "漫供C083藕粉灰.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "61C",
+    "color_name": "蓝色2C",
+    "rgb": [
+      29,
+      29,
+      120
+    ],
+    "filename": "秀琴61C蓝色2C.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C090",
+    "color_name": "洋红",
+    "rgb": [
+      218,
+      85,
+      120
+    ],
+    "filename": "漫供C090洋红.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C069",
+    "color_name": "火烈鸟",
+    "rgb": [
+      199,
+      152,
+      164
+    ],
+    "filename": "漫供C069火烈鸟.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2313",
+    "color_name": "红色A",
+    "rgb": [
+      170,
+      64,
+      52
+    ],
+    "filename": "秀琴2313红色A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "613金1",
+    "color_name": "AA",
+    "rgb": [
+      229,
+      208,
+      172
+    ],
+    "filename": "秀琴613金1#AA.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C102",
+    "color_name": "",
+    "rgb": [
+      111,
+      168,
+      194
+    ],
+    "filename": "漫供C102.png"
+  },
+  {
+    "brand": "千型",
+    "code": "X",
+    "color_name": "",
+    "rgb": [
+      134,
+      148,
+      117
+    ],
+    "filename": "千型X.png"
+  },
+  {
+    "brand": "千型",
+    "code": "28",
+    "color_name": "",
+    "rgb": [
+      135,
+      71,
+      62
+    ],
+    "filename": "千型28.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H011",
+    "color_name": "",
+    "rgb": [
+      61,
+      72,
+      109
+    ],
+    "filename": "漫供H011.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "004",
+    "color_name": "灰色",
+    "rgb": [
+      105,
+      104,
+      105
+    ],
+    "filename": "曼柒004#灰色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "136",
+    "color_name": "混粉蓝",
+    "rgb": [
+      149,
+      114,
+      153
+    ],
+    "filename": "曼柒136#混粉蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H009",
+    "color_name": "",
+    "rgb": [
+      207,
+      218,
+      223
+    ],
+    "filename": "漫供H009.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "021",
+    "color_name": "海老茶",
+    "rgb": [
+      75,
+      44,
+      31
+    ],
+    "filename": "曼柒021#海老茶.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2106亮色1",
+    "color_name": "B",
+    "rgb": [
+      217,
+      231,
+      91
+    ],
+    "filename": "秀琴2106亮色1#B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "039",
+    "color_name": "枯色",
+    "rgb": [
+      131,
+      105,
+      78
+    ],
+    "filename": "曼柒039#枯色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "009",
+    "color_name": "生壁色",
+    "rgb": [
+      73,
+      62,
+      45
+    ],
+    "filename": "曼柒009#生壁色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "W",
+    "color_name": "",
+    "rgb": [
+      70,
+      52,
+      52
+    ],
+    "filename": "千型W.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4811",
+    "color_name": "蓝3B",
+    "rgb": [
+      132,
+      206,
+      241
+    ],
+    "filename": "秀琴4811蓝3B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "30Y",
+    "color_name": "棕色B",
+    "rgb": [
+      117,
+      75,
+      45
+    ],
+    "filename": "秀琴30Y棕色B.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C088",
+    "color_name": "薄荷绿",
+    "rgb": [
+      74,
+      165,
+      135
+    ],
+    "filename": "漫供C088薄荷绿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C049",
+    "color_name": "深亚麻色",
+    "rgb": [
+      104,
+      84,
+      71
+    ],
+    "filename": "漫供C049深亚麻色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "090",
+    "color_name": "浅格绿",
+    "rgb": [
+      185,
+      217,
+      203
+    ],
+    "filename": "曼柒090#浅格绿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C006",
+    "color_name": "狐金色",
+    "rgb": [
+      250,
+      231,
+      194
+    ],
+    "filename": "漫供C006狐金色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "138",
+    "color_name": "混兰紫",
+    "rgb": [
+      153,
+      89,
+      163
+    ],
+    "filename": "曼柒138#混兰紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "002",
+    "color_name": "银白色",
+    "rgb": [
+      189,
+      188,
+      188
+    ],
+    "filename": "曼柒002#银白色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C058",
+    "color_name": "烟灰蓝",
+    "rgb": [
+      101,
+      108,
+      125
+    ],
+    "filename": "漫供C058烟灰蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "030",
+    "color_name": "曙色",
+    "rgb": [
+      144,
+      64,
+      45
+    ],
+    "filename": "曼柒030#曙色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z003",
+    "color_name": "银灰色",
+    "rgb": [
+      192,
+      191,
+      191
+    ],
+    "filename": "漫供Z003银灰色.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "17",
+    "color_name": "浅卡其",
+    "rgb": [
+      190,
+      174,
+      159
+    ],
+    "filename": "漫舞17浅卡其.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C114",
+    "color_name": "",
+    "rgb": [
+      168,
+      139,
+      82
+    ],
+    "filename": "漫供C114.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "033",
+    "color_name": "珊瑚朱",
+    "rgb": [
+      179,
+      101,
+      77
+    ],
+    "filename": "曼柒033#珊瑚朱.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "034",
+    "color_name": "暗红橙",
+    "rgb": [
+      164,
+      70,
+      41
+    ],
+    "filename": "曼柒034#暗红橙.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "071",
+    "color_name": "枯叶绿",
+    "rgb": [
+      182,
+      172,
+      125
+    ],
+    "filename": "曼柒071#枯叶绿.png"
+  },
+  {
+    "brand": "千型",
+    "code": "8",
+    "color_name": "",
+    "rgb": [
+      125,
+      153,
+      165
+    ],
+    "filename": "千型8.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "16",
+    "color_name": "紫",
+    "rgb": [
+      110,
+      62,
+      159
+    ],
+    "filename": "漫美纯色16紫.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "5126",
+    "color_name": "蓝绿色C",
+    "rgb": [
+      70,
+      159,
+      174
+    ],
+    "filename": "秀琴5126蓝绿色C.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C037",
+    "color_name": "茄子紫",
+    "rgb": [
+      83,
+      68,
+      121
+    ],
+    "filename": "漫供C037茄子紫.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "22",
+    "color_name": "亚麻色D",
+    "rgb": [
+      181,
+      158,
+      107
+    ],
+    "filename": "秀琴22亚麻色D.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "070",
+    "color_name": "浅草绿",
+    "rgb": [
+      199,
+      204,
+      141
+    ],
+    "filename": "曼柒070#浅草绿.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "3",
+    "color_name": "自然黑",
+    "rgb": [
+      58,
+      46,
+      42
+    ],
+    "filename": "漫美纯色3自然黑.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "069",
+    "color_name": "柠檬黄",
+    "rgb": [
+      236,
+      193,
+      74
+    ],
+    "filename": "曼柒069#柠檬黄.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "33B",
+    "color_name": "棕色3A",
+    "rgb": [
+      35,
+      25,
+      23
+    ],
+    "filename": "秀琴33B棕色3A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "058",
+    "color_name": "卡机色",
+    "rgb": [
+      143,
+      98,
+      51
+    ],
+    "filename": "曼柒058#卡机色.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "05",
+    "color_name": "金黄",
+    "rgb": [
+      219,
+      197,
+      142
+    ],
+    "filename": "漫舞05金黄.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "3930",
+    "color_name": "蓝色A",
+    "rgb": [
+      153,
+      175,
+      220
+    ],
+    "filename": "秀琴3930蓝色A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C061",
+    "color_name": "琉璃蓝",
+    "rgb": [
+      95,
+      135,
+      230
+    ],
+    "filename": "漫供C061琉璃蓝.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1310",
+    "color_name": "粉色A",
+    "rgb": [
+      226,
+      192,
+      205
+    ],
+    "filename": "秀琴1310粉色A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C046",
+    "color_name": "青色",
+    "rgb": [
+      128,
+      158,
+      158
+    ],
+    "filename": "漫供C046青色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "023",
+    "color_name": "桃木红",
+    "rgb": [
+      53,
+      29,
+      27
+    ],
+    "filename": "曼柒023#桃木红.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "01",
+    "color_name": "银灰",
+    "rgb": [
+      201,
+      197,
+      196
+    ],
+    "filename": "漫舞01银灰.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "177",
+    "color_name": "粉紫色",
+    "rgb": [
+      240,
+      128,
+      162
+    ],
+    "filename": "曼柒177#粉紫色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "125",
+    "color_name": "藤色",
+    "rgb": [
+      158,
+      149,
+      207
+    ],
+    "filename": "曼柒125#藤色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1306",
+    "color_name": "青灰色B",
+    "rgb": [
+      170,
+      158,
+      144
+    ],
+    "filename": "秀琴1306青灰色B.png"
+  },
+  {
+    "brand": "千型",
+    "code": "12",
+    "color_name": "",
+    "rgb": [
+      218,
+      157,
+      155
+    ],
+    "filename": "千型12.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "129",
+    "color_name": "浅莲色",
+    "rgb": [
+      228,
+      204,
+      232
+    ],
+    "filename": "曼柒129#浅莲色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C112",
+    "color_name": "",
+    "rgb": [
+      69,
+      129,
+      80
+    ],
+    "filename": "漫供C112.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C042",
+    "color_name": "藏蓝",
+    "rgb": [
+      42,
+      48,
+      80
+    ],
+    "filename": "漫供C042藏蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "031",
+    "color_name": "红巴梨",
+    "rgb": [
+      152,
+      102,
+      82
+    ],
+    "filename": "曼柒031#红巴梨.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C086",
+    "color_name": "浅粉",
+    "rgb": [
+      244,
+      204,
+      223
+    ],
+    "filename": "漫供C086浅粉.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "6",
+    "color_name": "淡金",
+    "rgb": [
+      219,
+      208,
+      185
+    ],
+    "filename": "漫美纯色6淡金.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2314",
+    "color_name": "红色1D",
+    "rgb": [
+      227,
+      57,
+      125
+    ],
+    "filename": "秀琴2314红色1D.png"
+  },
+  {
+    "brand": "千型",
+    "code": "B",
+    "color_name": "",
+    "rgb": [
+      220,
+      205,
+      175
+    ],
+    "filename": "千型B.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "23",
+    "color_name": "浅紫灰",
+    "rgb": [
+      129,
+      131,
+      156
+    ],
+    "filename": "漫舞23浅紫灰.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "116",
+    "color_name": "钳蓝",
+    "rgb": [
+      26,
+      52,
+      103
+    ],
+    "filename": "曼柒116#钳蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C100",
+    "color_name": "",
+    "rgb": [
+      184,
+      146,
+      55
+    ],
+    "filename": "漫供C100.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C055",
+    "color_name": "紫藤色",
+    "rgb": [
+      123,
+      88,
+      105
+    ],
+    "filename": "漫供C055紫藤色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2403",
+    "color_name": "紫色D",
+    "rgb": [
+      148,
+      130,
+      163
+    ],
+    "filename": "秀琴2403紫色D.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "200C",
+    "color_name": "红色B",
+    "rgb": [
+      138,
+      29,
+      33
+    ],
+    "filename": "秀琴200C红色B.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C103",
+    "color_name": "",
+    "rgb": [
+      131,
+      105,
+      84
+    ],
+    "filename": "漫供C103.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "33",
+    "color_name": "浅金",
+    "rgb": [
+      219,
+      203,
+      165
+    ],
+    "filename": "漫美纯33浅金.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "140",
+    "color_name": "",
+    "rgb": [
+      98,
+      92,
+      144
+    ],
+    "filename": "曼柒140#.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "065",
+    "color_name": "鲑鱼黄",
+    "rgb": [
+      236,
+      170,
+      102
+    ],
+    "filename": "曼柒065#鲑鱼黄.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "124",
+    "color_name": "幼蓝",
+    "rgb": [
+      128,
+      143,
+      189
+    ],
+    "filename": "曼柒124#幼蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "114",
+    "color_name": "琉璃蓝",
+    "rgb": [
+      38,
+      91,
+      172
+    ],
+    "filename": "曼柒114#琉璃蓝.png"
+  },
+  {
+    "brand": "千型",
+    "code": "I",
+    "color_name": "",
+    "rgb": [
+      221,
+      192,
+      128
+    ],
+    "filename": "千型I.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "0906灰1",
+    "color_name": "A",
+    "rgb": [
+      145,
+      142,
+      145
+    ],
+    "filename": "秀琴0906灰1#A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "146",
+    "color_name": "烟紫苑",
+    "rgb": [
+      123,
+      99,
+      128
+    ],
+    "filename": "曼柒146#烟紫苑.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C062",
+    "color_name": "胡兰绿",
+    "rgb": [
+      74,
+      89,
+      85
+    ],
+    "filename": "漫供C062胡兰绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "135",
+    "color_name": "灰槿紫",
+    "rgb": [
+      150,
+      118,
+      151
+    ],
+    "filename": "曼柒135#灰槿紫.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H007",
+    "color_name": "",
+    "rgb": [
+      48,
+      55,
+      94
+    ],
+    "filename": "漫供H007.png"
+  },
+  {
+    "brand": "漫美混色",
+    "code": "2",
+    "color_name": "银灰混白",
+    "rgb": [
+      217,
+      216,
+      220
+    ],
+    "filename": "漫美混色2银灰混白.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "27棕2",
+    "color_name": "A",
+    "rgb": [
+      139,
+      111,
+      84
+    ],
+    "filename": "秀琴27棕2#A.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "14",
+    "color_name": "金",
+    "rgb": [
+      228,
+      201,
+      152
+    ],
+    "filename": "漫美纯色14金.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C043",
+    "color_name": "超级浅紫色",
+    "rgb": [
+      189,
+      190,
+      212
+    ],
+    "filename": "漫供C043超级浅紫色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "029",
+    "color_name": "赭色",
+    "rgb": [
+      108,
+      37,
+      30
+    ],
+    "filename": "曼柒029#赭色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "001",
+    "color_name": "纯白色",
+    "rgb": [
+      238,
+      238,
+      238
+    ],
+    "filename": "曼柒001#纯白色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C035",
+    "color_name": "橙色",
+    "rgb": [
+      199,
+      103,
+      49
+    ],
+    "filename": "漫供C035橙色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "105",
+    "color_name": "白蓝",
+    "rgb": [
+      142,
+      193,
+      215
+    ],
+    "filename": "曼柒105#白蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C033",
+    "color_name": "海藻绿",
+    "rgb": [
+      61,
+      66,
+      65
+    ],
+    "filename": "漫供C033海藻绿.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1532黄2",
+    "color_name": "B",
+    "rgb": [
+      204,
+      158,
+      146
+    ],
+    "filename": "秀琴1532黄2#B.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "23",
+    "color_name": "绿",
+    "rgb": [
+      71,
+      147,
+      120
+    ],
+    "filename": "漫美纯23绿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C110",
+    "color_name": "",
+    "rgb": [
+      217,
+      225,
+      219
+    ],
+    "filename": "漫供C110.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "145",
+    "color_name": "木槿",
+    "rgb": [
+      134,
+      91,
+      127
+    ],
+    "filename": "曼柒145#木槿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C010",
+    "color_name": "浅橘色",
+    "rgb": [
+      230,
+      179,
+      143
+    ],
+    "filename": "漫供C010浅橘色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H001",
+    "color_name": "混深棕色",
+    "rgb": [
+      66,
+      51,
+      52
+    ],
+    "filename": "漫供H001混深棕色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "171C",
+    "color_name": "灰色C",
+    "rgb": [
+      93,
+      89,
+      88
+    ],
+    "filename": "秀琴171C灰色C.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "15",
+    "color_name": "樱粉",
+    "rgb": [
+      201,
+      164,
+      161
+    ],
+    "filename": "漫舞15樱粉.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "032",
+    "color_name": "热带橙",
+    "rgb": [
+      135,
+      80,
+      45
+    ],
+    "filename": "曼柒032#热带橙.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C092",
+    "color_name": "茶棕",
+    "rgb": [
+      63,
+      56,
+      52
+    ],
+    "filename": "漫供C092茶棕.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C115",
+    "color_name": "",
+    "rgb": [
+      239,
+      148,
+      63
+    ],
+    "filename": "漫供C115.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C013",
+    "color_name": "西瓜红",
+    "rgb": [
+      222,
+      128,
+      146
+    ],
+    "filename": "漫供C013西瓜红.png"
+  },
+  {
+    "brand": "千型",
+    "code": "7",
+    "color_name": "",
+    "rgb": [
+      141,
+      167,
+      193
+    ],
+    "filename": "千型7.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "112",
+    "color_name": "粉蓝",
+    "rgb": [
+      120,
+      159,
+      205
+    ],
+    "filename": "曼柒112#粉蓝.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "7",
+    "color_name": "深红",
+    "rgb": [
+      145,
+      57,
+      59
+    ],
+    "filename": "漫美纯色7深红.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "M130M红1",
+    "color_name": "A",
+    "rgb": [
+      141,
+      64,
+      64
+    ],
+    "filename": "秀琴M130M红1#A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z013",
+    "color_name": "奶白色",
+    "rgb": [
+      227,
+      215,
+      201
+    ],
+    "filename": "漫供Z013奶白色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "118",
+    "color_name": "靛蓝",
+    "rgb": [
+      31,
+      41,
+      71
+    ],
+    "filename": "曼柒118#靛蓝.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1001A_2403A紫4",
+    "color_name": "A",
+    "rgb": [
+      193,
+      184,
+      210
+    ],
+    "filename": "秀琴1001A_2403A紫4#A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1241",
+    "color_name": "棕色1C",
+    "rgb": [
+      70,
+      44,
+      32
+    ],
+    "filename": "秀琴1241棕色1C.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "14",
+    "color_name": "紫灰",
+    "rgb": [
+      136,
+      131,
+      137
+    ],
+    "filename": "漫舞14紫灰.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C051",
+    "color_name": "灰黑",
+    "rgb": [
+      69,
+      68,
+      80
+    ],
+    "filename": "漫供C051灰黑.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "BD",
+    "color_name": "绿色1B",
+    "rgb": [
+      35,
+      86,
+      84
+    ],
+    "filename": "秀琴BD绿色1B.png"
+  },
+  {
+    "brand": "千型",
+    "code": "15",
+    "color_name": "",
+    "rgb": [
+      216,
+      177,
+      174
+    ],
+    "filename": "千型15.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "170",
+    "color_name": "粉烟紫",
+    "rgb": [
+      200,
+      154,
+      182
+    ],
+    "filename": "曼柒170#粉烟紫.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2404紫3",
+    "color_name": "B（紫色1B）",
+    "rgb": [
+      84,
+      77,
+      128
+    ],
+    "filename": "秀琴2404紫3#B（紫色1B）.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "187",
+    "color_name": "正红",
+    "rgb": [
+      200,
+      19,
+      41
+    ],
+    "filename": "曼柒187#正红.png"
+  },
+  {
+    "brand": "千型",
+    "code": "31",
+    "color_name": "",
+    "rgb": [
+      119,
+      147,
+      138
+    ],
+    "filename": "千型31.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1355C",
+    "color_name": "黄色A",
+    "rgb": [
+      222,
+      186,
+      130
+    ],
+    "filename": "秀琴1355C黄色A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "27B",
+    "color_name": "棕色2C",
+    "rgb": [
+      116,
+      87,
+      53
+    ],
+    "filename": "秀琴27B棕色2C.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2410",
+    "color_name": "棕色3D",
+    "rgb": [
+      80,
+      45,
+      142
+    ],
+    "filename": "秀琴2410棕色3D.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "024",
+    "color_name": "黑红色",
+    "rgb": [
+      55,
+      37,
+      39
+    ],
+    "filename": "曼柒024#黑红色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z010",
+    "color_name": "蟹黄",
+    "rgb": [
+      198,
+      139,
+      85
+    ],
+    "filename": "漫供Z010蟹黄.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "15",
+    "color_name": "浅棕",
+    "rgb": [
+      150,
+      112,
+      80
+    ],
+    "filename": "漫美纯色15浅棕.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "60B",
+    "color_name": "白色B",
+    "rgb": [
+      240,
+      232,
+      242
+    ],
+    "filename": "秀琴60B白色B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "0906",
+    "color_name": "灰色B",
+    "rgb": [
+      133,
+      130,
+      135
+    ],
+    "filename": "秀琴0906灰色B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2717",
+    "color_name": "红色1C",
+    "rgb": [
+      228,
+      71,
+      152
+    ],
+    "filename": "秀琴2717红色1C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "066",
+    "color_name": "玉蜀黍",
+    "rgb": [
+      249,
+      193,
+      117
+    ],
+    "filename": "曼柒066#玉蜀黍.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "6A",
+    "color_name": "棕色1D",
+    "rgb": [
+      52,
+      37,
+      27
+    ],
+    "filename": "秀琴6A棕色1D.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "148",
+    "color_name": "葡萄紫",
+    "rgb": [
+      107,
+      69,
+      87
+    ],
+    "filename": "曼柒148#葡萄紫.png"
+  },
+  {
+    "brand": "千型",
+    "code": "14",
+    "color_name": "",
+    "rgb": [
+      202,
+      189,
+      155
+    ],
+    "filename": "千型14.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "8",
+    "color_name": "深灰",
+    "rgb": [
+      143,
+      139,
+      133
+    ],
+    "filename": "漫美纯色8深灰.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2913绿3",
+    "color_name": "A",
+    "rgb": [
+      84,
+      113,
+      132
+    ],
+    "filename": "秀琴2913绿3#A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "016",
+    "color_name": "莺茶色",
+    "rgb": [
+      89,
+      73,
+      56
+    ],
+    "filename": "曼柒016#莺茶色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "184",
+    "color_name": "淡粉",
+    "rgb": [
+      227,
+      196,
+      206
+    ],
+    "filename": "曼柒184#淡粉.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "6138绿2",
+    "color_name": "B",
+    "rgb": [
+      53,
+      122,
+      79
+    ],
+    "filename": "秀琴6138绿2#B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "185",
+    "color_name": "",
+    "rgb": [
+      252,
+      84,
+      111
+    ],
+    "filename": "曼柒185#.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C107",
+    "color_name": "",
+    "rgb": [
+      196,
+      122,
+      156
+    ],
+    "filename": "漫供C107.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "163",
+    "color_name": "暗绯",
+    "rgb": [
+      117,
+      84,
+      88
+    ],
+    "filename": "曼柒163#暗绯.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "10",
+    "color_name": "自然黑",
+    "rgb": [
+      21,
+      21,
+      21
+    ],
+    "filename": "漫舞10自然黑.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "113",
+    "color_name": "天蓝",
+    "rgb": [
+      7,
+      121,
+      189
+    ],
+    "filename": "曼柒113#天蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C019",
+    "color_name": "罗兰紫",
+    "rgb": [
+      185,
+      108,
+      226
+    ],
+    "filename": "漫供C019罗兰紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "019",
+    "color_name": "玄色",
+    "rgb": [
+      128,
+      63,
+      46
+    ],
+    "filename": "曼柒019#玄色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "5412绿1",
+    "color_name": "A",
+    "rgb": [
+      142,
+      190,
+      193
+    ],
+    "filename": "秀琴5412绿1#A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "17C",
+    "color_name": "棕色A",
+    "rgb": [
+      167,
+      104,
+      54
+    ],
+    "filename": "秀琴17C棕色A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2317",
+    "color_name": "浅粉",
+    "rgb": [
+      254,
+      196,
+      227
+    ],
+    "filename": "秀琴2317浅粉.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "014",
+    "color_name": "焦茶色",
+    "rgb": [
+      79,
+      62,
+      46
+    ],
+    "filename": "曼柒014#焦茶色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "5717C",
+    "color_name": "紫色1C",
+    "rgb": [
+      58,
+      36,
+      127
+    ],
+    "filename": "秀琴5717C紫色1C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "165",
+    "color_name": "粉暖",
+    "rgb": [
+      201,
+      133,
+      150
+    ],
+    "filename": "曼柒165#粉暖.png"
+  },
+  {
+    "brand": "漫美混色",
+    "code": "4",
+    "color_name": "粉混白粉多",
+    "rgb": [
+      238,
+      196,
+      202
+    ],
+    "filename": "漫美混色4粉混白粉多.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C026",
+    "color_name": "玫瑰红",
+    "rgb": [
+      170,
+      62,
+      52
+    ],
+    "filename": "漫供C026玫瑰红.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "81C",
+    "color_name": "蓝色1C",
+    "rgb": [
+      18,
+      20,
+      87
+    ],
+    "filename": "秀琴81C蓝色1C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "178",
+    "color_name": "粉色",
+    "rgb": [
+      253,
+      127,
+      145
+    ],
+    "filename": "曼柒178#粉色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z017",
+    "color_name": "米黄色",
+    "rgb": [
+      209,
+      193,
+      165
+    ],
+    "filename": "漫供Z017米黄色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "110",
+    "color_name": "黛灰蓝",
+    "rgb": [
+      85,
+      95,
+      106
+    ],
+    "filename": "曼柒110#黛灰蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "008",
+    "color_name": "深棕色",
+    "rgb": [
+      49,
+      34,
+      29
+    ],
+    "filename": "曼柒008#深棕色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "020",
+    "color_name": "弁柄色",
+    "rgb": [
+      90,
+      47,
+      34
+    ],
+    "filename": "曼柒020#弁柄色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C029",
+    "color_name": "柠檬黄",
+    "rgb": [
+      231,
+      197,
+      81
+    ],
+    "filename": "漫供C029柠檬黄.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "0755",
+    "color_name": "黄色C",
+    "rgb": [
+      223,
+      181,
+      84
+    ],
+    "filename": "秀琴0755黄色C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "049",
+    "color_name": "小鸠黄",
+    "rgb": [
+      227,
+      216,
+      167
+    ],
+    "filename": "曼柒049#小鸠黄.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "75C",
+    "color_name": "蓝绿色D",
+    "rgb": [
+      172,
+      228,
+      82
+    ],
+    "filename": "秀琴75C蓝绿色D.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "166",
+    "color_name": "洋红",
+    "rgb": [
+      202,
+      42,
+      146
+    ],
+    "filename": "曼柒166#洋红.png"
+  },
+  {
+    "brand": "千型",
+    "code": "1",
+    "color_name": "",
+    "rgb": [
+      152,
+      147,
+      142
+    ],
+    "filename": "千型1.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "17",
+    "color_name": "青",
+    "rgb": [
+      197,
+      225,
+      228
+    ],
+    "filename": "漫美纯色17青.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "160",
+    "color_name": "今样",
+    "rgb": [
+      195,
+      107,
+      105
+    ],
+    "filename": "曼柒160#今样.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "191",
+    "color_name": "柔粉紫",
+    "rgb": [
+      183,
+      136,
+      172
+    ],
+    "filename": "曼柒191#柔粉紫.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z005",
+    "color_name": "亚麻色",
+    "rgb": [
+      170,
+      146,
+      123
+    ],
+    "filename": "漫供Z005亚麻色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2609绿1",
+    "color_name": "B",
+    "rgb": [
+      60,
+      76,
+      36
+    ],
+    "filename": "秀琴2609绿1#B.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z004",
+    "color_name": "深灰色",
+    "rgb": [
+      122,
+      122,
+      127
+    ],
+    "filename": "漫供Z004深灰色.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "19",
+    "color_name": "深棕",
+    "rgb": [
+      141,
+      102,
+      83
+    ],
+    "filename": "漫美纯色19深棕.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C059",
+    "color_name": "薄荷蓝",
+    "rgb": [
+      171,
+      216,
+      238
+    ],
+    "filename": "漫供C059薄荷蓝.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "02",
+    "color_name": "荧光绿",
+    "rgb": [
+      210,
+      227,
+      152
+    ],
+    "filename": "漫舞02荧光绿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C106",
+    "color_name": "",
+    "rgb": [
+      68,
+      36,
+      129
+    ],
+    "filename": "漫供C106.png"
+  },
+  {
+    "brand": "千型",
+    "code": "D",
+    "color_name": "",
+    "rgb": [
+      210,
+      151,
+      149
+    ],
+    "filename": "千型D.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z021",
+    "color_name": "亚麻金",
+    "rgb": [
+      217,
+      195,
+      171
+    ],
+    "filename": "漫供Z021亚麻金.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C078",
+    "color_name": "水晶紫",
+    "rgb": [
+      150,
+      131,
+      209
+    ],
+    "filename": "漫供C078水晶紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "098",
+    "color_name": "鸦青",
+    "rgb": [
+      34,
+      70,
+      89
+    ],
+    "filename": "曼柒098#鸦青.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2312",
+    "color_name": "粉色D烟粉",
+    "rgb": [
+      242,
+      148,
+      171
+    ],
+    "filename": "秀琴2312粉色D烟粉.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "24",
+    "color_name": "青灰色",
+    "rgb": [
+      138,
+      117,
+      74
+    ],
+    "filename": "秀琴24青灰色.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "18",
+    "color_name": "水粉",
+    "rgb": [
+      226,
+      204,
+      194
+    ],
+    "filename": "漫舞18水粉.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "068",
+    "color_name": "欧曼黄",
+    "rgb": [
+      239,
+      183,
+      49
+    ],
+    "filename": "曼柒068#欧曼黄.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "091",
+    "color_name": "灰绿色",
+    "rgb": [
+      102,
+      165,
+      140
+    ],
+    "filename": "曼柒091#灰绿色.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "35",
+    "color_name": "深紫",
+    "rgb": [
+      101,
+      78,
+      117
+    ],
+    "filename": "漫美纯35深紫.png"
+  },
+  {
+    "brand": "千型",
+    "code": "21",
+    "color_name": "",
+    "rgb": [
+      193,
+      175,
+      169
+    ],
+    "filename": "千型21.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "120",
+    "color_name": "蓝紫",
+    "rgb": [
+      66,
+      67,
+      115
+    ],
+    "filename": "曼柒120#蓝紫.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "12",
+    "color_name": "树莓粉",
+    "rgb": [
+      211,
+      165,
+      162
+    ],
+    "filename": "漫舞12树莓粉.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "180",
+    "color_name": "牡丹粉",
+    "rgb": [
+      215,
+      141,
+      141
+    ],
+    "filename": "曼柒180#牡丹粉.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "95C",
+    "color_name": "绿色D",
+    "rgb": [
+      56,
+      128,
+      98
+    ],
+    "filename": "秀琴95C绿色D.png"
+  },
+  {
+    "brand": "漫美混色",
+    "code": "6",
+    "color_name": "金混奶金",
+    "rgb": [
+      229,
+      210,
+      167
+    ],
+    "filename": "漫美混色6金混奶金.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "179",
+    "color_name": "深粉",
+    "rgb": [
+      222,
+      126,
+      128
+    ],
+    "filename": "曼柒179#深粉.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "044",
+    "color_name": "蓝灰色",
+    "rgb": [
+      121,
+      139,
+      138
+    ],
+    "filename": "曼柒044#蓝灰色.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "30",
+    "color_name": "香芋紫",
+    "rgb": [
+      189,
+      171,
+      193
+    ],
+    "filename": "漫美纯30香芋紫.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C030",
+    "color_name": "海蓝",
+    "rgb": [
+      177,
+      186,
+      242
+    ],
+    "filename": "漫供C030海蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C024",
+    "color_name": "孔雀绿",
+    "rgb": [
+      134,
+      201,
+      119
+    ],
+    "filename": "漫供C024孔雀绿.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "TF2202橘1",
+    "color_name": "A",
+    "rgb": [
+      240,
+      145,
+      86
+    ],
+    "filename": "秀琴TF2202橘1#A.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "4",
+    "color_name": "蓝",
+    "rgb": [
+      150,
+      179,
+      205
+    ],
+    "filename": "漫美纯色4蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z016",
+    "color_name": "卡其色",
+    "rgb": [
+      161,
+      129,
+      97
+    ],
+    "filename": "漫供Z016卡其色.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "32",
+    "color_name": "宝蓝",
+    "rgb": [
+      48,
+      82,
+      176
+    ],
+    "filename": "漫美纯32宝蓝.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "3925蓝3",
+    "color_name": "B",
+    "rgb": [
+      139,
+      151,
+      194
+    ],
+    "filename": "秀琴3925蓝3#B.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C095",
+    "color_name": "姨妈红",
+    "rgb": [
+      124,
+      38,
+      32
+    ],
+    "filename": "漫供C095姨妈红.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "122",
+    "color_name": "石青色",
+    "rgb": [
+      69,
+      89,
+      170
+    ],
+    "filename": "曼柒122#石青色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C050",
+    "color_name": "铜棕色",
+    "rgb": [
+      106,
+      68,
+      43
+    ],
+    "filename": "漫供C050铜棕色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "048",
+    "color_name": "月白色",
+    "rgb": [
+      230,
+      226,
+      209
+    ],
+    "filename": "曼柒048#月白色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "73C",
+    "color_name": "紫色1D",
+    "rgb": [
+      52,
+      28,
+      95
+    ],
+    "filename": "秀琴73C紫色1D.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "613A",
+    "color_name": "黄色1A",
+    "rgb": [
+      224,
+      215,
+      190
+    ],
+    "filename": "秀琴613A黄色1A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "040",
+    "color_name": "",
+    "rgb": [
+      190,
+      159,
+      138
+    ],
+    "filename": "曼柒040#.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "03",
+    "color_name": "浅金",
+    "rgb": [
+      235,
+      221,
+      190
+    ],
+    "filename": "漫舞03浅金.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "064",
+    "color_name": "云彩霞",
+    "rgb": [
+      230,
+      152,
+      85
+    ],
+    "filename": "曼柒064#云彩霞.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "025",
+    "color_name": "",
+    "rgb": [
+      70,
+      42,
+      47
+    ],
+    "filename": "曼柒025#.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z018",
+    "color_name": "浅焦糖色",
+    "rgb": [
+      159,
+      113,
+      72
+    ],
+    "filename": "漫供Z018浅焦糖色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "L",
+    "color_name": "",
+    "rgb": [
+      128,
+      195,
+      214
+    ],
+    "filename": "千型L.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "035",
+    "color_name": "灰麦色",
+    "rgb": [
+      129,
+      113,
+      86
+    ],
+    "filename": "曼柒035#灰麦色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "063",
+    "color_name": "香色",
+    "rgb": [
+      245,
+      180,
+      148
+    ],
+    "filename": "曼柒063#香色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2521",
+    "color_name": "蓝色1B",
+    "rgb": [
+      26,
+      44,
+      144
+    ],
+    "filename": "秀琴2521蓝色1B.png"
+  },
+  {
+    "brand": "千型",
+    "code": "19",
+    "color_name": "",
+    "rgb": [
+      184,
+      156,
+      96
+    ],
+    "filename": "千型19.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1B_2411紫2",
+    "color_name": "A",
+    "rgb": [
+      54,
+      42,
+      74
+    ],
+    "filename": "秀琴1B_2411紫2#A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "026",
+    "color_name": "深酒红",
+    "rgb": [
+      73,
+      31,
+      33
+    ],
+    "filename": "曼柒026#深酒红.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "061",
+    "color_name": "粉黄色",
+    "rgb": [
+      219,
+      150,
+      111
+    ],
+    "filename": "曼柒061#粉黄色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "022",
+    "color_name": "枣红色",
+    "rgb": [
+      69,
+      31,
+      29
+    ],
+    "filename": "曼柒022#枣红色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C041",
+    "color_name": "蓝黑色",
+    "rgb": [
+      66,
+      69,
+      85
+    ],
+    "filename": "漫供C041蓝黑色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "34",
+    "color_name": "",
+    "rgb": [
+      210,
+      137,
+      65
+    ],
+    "filename": "千型34.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H002",
+    "color_name": "混浅棕色",
+    "rgb": [
+      137,
+      105,
+      84
+    ],
+    "filename": "漫供H002混浅棕色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C002",
+    "color_name": "青色",
+    "rgb": [
+      177,
+      178,
+      150
+    ],
+    "filename": "漫供C002青色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1001A_2403A紫4",
+    "color_name": "B",
+    "rgb": [
+      182,
+      163,
+      210
+    ],
+    "filename": "秀琴1001A_2403A紫4#B.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C096",
+    "color_name": "梅子",
+    "rgb": [
+      108,
+      46,
+      51
+    ],
+    "filename": "漫供C096梅子.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "31",
+    "color_name": "深红棕",
+    "rgb": [
+      91,
+      68,
+      60
+    ],
+    "filename": "漫美纯31深红棕.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "188",
+    "color_name": "暗烟蓝",
+    "rgb": [
+      43,
+      39,
+      52
+    ],
+    "filename": "曼柒188#暗烟蓝.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "18",
+    "color_name": "棕色2A",
+    "rgb": [
+      172,
+      144,
+      97
+    ],
+    "filename": "秀琴18棕色2A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "953",
+    "color_name": "黄色2A",
+    "rgb": [
+      174,
+      131,
+      61
+    ],
+    "filename": "秀琴953黄色2A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C070",
+    "color_name": "水蜜桃粉色",
+    "rgb": [
+      222,
+      133,
+      132
+    ],
+    "filename": "漫供C070水蜜桃粉色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "107",
+    "color_name": "深松蓝",
+    "rgb": [
+      2,
+      110,
+      146
+    ],
+    "filename": "曼柒107#深松蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "003",
+    "color_name": "银灰色",
+    "rgb": [
+      149,
+      149,
+      150
+    ],
+    "filename": "曼柒003#银灰色.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "1",
+    "color_name": "深粉",
+    "rgb": [
+      231,
+      170,
+      172
+    ],
+    "filename": "漫美纯色1深粉.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "27",
+    "color_name": "紫粉",
+    "rgb": [
+      225,
+      180,
+      199
+    ],
+    "filename": "漫美纯27紫粉.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C071",
+    "color_name": "水墨蓝",
+    "rgb": [
+      118,
+      140,
+      178
+    ],
+    "filename": "漫供C071水墨蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C039",
+    "color_name": "蓝紫",
+    "rgb": [
+      130,
+      128,
+      179
+    ],
+    "filename": "漫供C039蓝紫.png"
+  },
+  {
+    "brand": "千型",
+    "code": "20",
+    "color_name": "",
+    "rgb": [
+      186,
+      155,
+      101
+    ],
+    "filename": "千型20.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2411_1B紫3",
+    "color_name": "A",
+    "rgb": [
+      76,
+      54,
+      98
+    ],
+    "filename": "秀琴2411_1B紫3#A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "131",
+    "color_name": "粉藤色",
+    "rgb": [
+      177,
+      170,
+      198
+    ],
+    "filename": "曼柒131#粉藤色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "17",
+    "color_name": "墨绿色",
+    "rgb": [
+      44,
+      47,
+      42
+    ],
+    "filename": "千型17墨绿色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "012",
+    "color_name": "红褐色",
+    "rgb": [
+      138,
+      91,
+      53
+    ],
+    "filename": "曼柒012#红褐色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "104",
+    "color_name": "碧蓝",
+    "rgb": [
+      2,
+      157,
+      179
+    ],
+    "filename": "曼柒104#碧蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C018",
+    "color_name": "葡萄紫",
+    "rgb": [
+      99,
+      66,
+      115
+    ],
+    "filename": "漫供C018葡萄紫.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C009",
+    "color_name": "浅亚麻",
+    "rgb": [
+      204,
+      188,
+      172
+    ],
+    "filename": "漫供C009浅亚麻.png"
+  },
+  {
+    "brand": "千型",
+    "code": "T",
+    "color_name": "",
+    "rgb": [
+      72,
+      55,
+      44
+    ],
+    "filename": "千型T.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C101",
+    "color_name": "",
+    "rgb": [
+      131,
+      84,
+      66
+    ],
+    "filename": "漫供C101.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "189",
+    "color_name": "暗紫蓝",
+    "rgb": [
+      51,
+      43,
+      52
+    ],
+    "filename": "曼柒189#暗紫蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z012",
+    "color_name": "焦糖色",
+    "rgb": [
+      142,
+      100,
+      76
+    ],
+    "filename": "漫供Z012焦糖色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "C",
+    "color_name": "",
+    "rgb": [
+      232,
+      184,
+      177
+    ],
+    "filename": "千型C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "055",
+    "color_name": "藤黄色",
+    "rgb": [
+      201,
+      157,
+      81
+    ],
+    "filename": "曼柒055#藤黄色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "060",
+    "color_name": "浅粉黄",
+    "rgb": [
+      235,
+      172,
+      126
+    ],
+    "filename": "曼柒060#浅粉黄.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4043",
+    "color_name": "蓝色2A",
+    "rgb": [
+      52,
+      75,
+      146
+    ],
+    "filename": "秀琴4043蓝色2A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "173",
+    "color_name": "肌粉",
+    "rgb": [
+      244,
+      176,
+      170
+    ],
+    "filename": "曼柒173#肌粉.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C020",
+    "color_name": "紫薯色",
+    "rgb": [
+      155,
+      118,
+      157
+    ],
+    "filename": "漫供C020紫薯色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "22",
+    "color_name": "",
+    "rgb": [
+      160,
+      162,
+      169
+    ],
+    "filename": "千型22.png"
+  },
+  {
+    "brand": "千型",
+    "code": "4",
+    "color_name": "深棕色",
+    "rgb": [
+      46,
+      38,
+      34
+    ],
+    "filename": "千型4深棕色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C053",
+    "color_name": "芋藤色",
+    "rgb": [
+      136,
+      111,
+      115
+    ],
+    "filename": "漫供C053芋藤色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C080",
+    "color_name": "紫蓝",
+    "rgb": [
+      108,
+      132,
+      234
+    ],
+    "filename": "漫供C080紫蓝.png"
+  },
+  {
+    "brand": "千型",
+    "code": "R",
+    "color_name": "",
+    "rgb": [
+      111,
+      96,
+      152
+    ],
+    "filename": "千型R.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "0935黄2",
+    "color_name": "A",
+    "rgb": [
+      229,
+      194,
+      144
+    ],
+    "filename": "秀琴0935黄2#A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C038",
+    "color_name": "木槿紫",
+    "rgb": [
+      162,
+      147,
+      199
+    ],
+    "filename": "漫供C038木槿紫.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "25",
+    "color_name": "烟粉",
+    "rgb": [
+      220,
+      176,
+      178
+    ],
+    "filename": "漫美纯25烟粉.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "093",
+    "color_name": "青竹色",
+    "rgb": [
+      3,
+      154,
+      154
+    ],
+    "filename": "曼柒093#青竹色.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "11",
+    "color_name": "白",
+    "rgb": [
+      232,
+      232,
+      235
+    ],
+    "filename": "漫美纯色11白.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "082",
+    "color_name": "荷茎",
+    "rgb": [
+      99,
+      132,
+      109
+    ],
+    "filename": "曼柒082#荷茎.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C097",
+    "color_name": "",
+    "rgb": [
+      81,
+      100,
+      121
+    ],
+    "filename": "漫供C097.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C119",
+    "color_name": "",
+    "rgb": [
+      207,
+      213,
+      212
+    ],
+    "filename": "漫供C119.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2513B蓝1",
+    "color_name": "A（蓝色C）",
+    "rgb": [
+      91,
+      188,
+      232
+    ],
+    "filename": "秀琴2513B蓝1#A（蓝色C）.png"
+  },
+  {
+    "brand": "千型",
+    "code": "2",
+    "color_name": "",
+    "rgb": [
+      114,
+      111,
+      107
+    ],
+    "filename": "千型2.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "018",
+    "color_name": "玛瑙色",
+    "rgb": [
+      122,
+      72,
+      46
+    ],
+    "filename": "曼柒018#玛瑙色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "O",
+    "color_name": "",
+    "rgb": [
+      233,
+      231,
+      232
+    ],
+    "filename": "千型O.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "089",
+    "color_name": "森林绿岩",
+    "rgb": [
+      43,
+      60,
+      60
+    ],
+    "filename": "曼柒089#森林绿岩.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "25",
+    "color_name": "淡紫",
+    "rgb": [
+      221,
+      207,
+      233
+    ],
+    "filename": "漫舞25淡紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "043",
+    "color_name": "灰汁团",
+    "rgb": [
+      175,
+      164,
+      144
+    ],
+    "filename": "曼柒043#灰汁团.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "119",
+    "color_name": "黄色2D",
+    "rgb": [
+      241,
+      149,
+      60
+    ],
+    "filename": "秀琴119黄色2D.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "096",
+    "color_name": "青璧",
+    "rgb": [
+      96,
+      158,
+      170
+    ],
+    "filename": "曼柒096#青璧.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H006",
+    "color_name": "",
+    "rgb": [
+      198,
+      204,
+      225
+    ],
+    "filename": "漫供H006.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C098",
+    "color_name": "",
+    "rgb": [
+      185,
+      228,
+      95
+    ],
+    "filename": "漫供C098.png"
+  },
+  {
+    "brand": "千型",
+    "code": "16",
+    "color_name": "",
+    "rgb": [
+      206,
+      169,
+      166
+    ],
+    "filename": "千型16.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C007",
+    "color_name": "草黄",
+    "rgb": [
+      220,
+      176,
+      109
+    ],
+    "filename": "漫供C007草黄.png"
+  },
+  {
+    "brand": "千型",
+    "code": "33",
+    "color_name": "",
+    "rgb": [
+      204,
+      197,
+      184
+    ],
+    "filename": "千型33.png"
+  },
+  {
+    "brand": "漫美混色",
+    "code": "5",
+    "color_name": "深蓝混黑粽",
+    "rgb": [
+      43,
+      60,
+      108
+    ],
+    "filename": "漫美混色5深蓝混黑粽.png"
+  },
+  {
+    "brand": "千型",
+    "code": "H",
+    "color_name": "",
+    "rgb": [
+      229,
+      208,
+      161
+    ],
+    "filename": "千型H.png"
+  },
+  {
+    "brand": "千型",
+    "code": "5",
+    "color_name": "",
+    "rgb": [
+      99,
+      67,
+      47
+    ],
+    "filename": "千型5.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "053",
+    "color_name": "暖黄色",
+    "rgb": [
+      226,
+      193,
+      131
+    ],
+    "filename": "曼柒053#暖黄色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C017",
+    "color_name": "灰紫",
+    "rgb": [
+      162,
+      151,
+      193
+    ],
+    "filename": "漫供C017灰紫.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1632粉3",
+    "color_name": "B",
+    "rgb": [
+      243,
+      187,
+      192
+    ],
+    "filename": "秀琴1632粉3#B.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "26",
+    "color_name": "亚麻灰",
+    "rgb": [
+      184,
+      172,
+      164
+    ],
+    "filename": "漫美纯26亚麻灰.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "143",
+    "color_name": "定向",
+    "rgb": [
+      153,
+      110,
+      142
+    ],
+    "filename": "曼柒143#定向.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "65C",
+    "color_name": "红色1A",
+    "rgb": [
+      254,
+      160,
+      194
+    ],
+    "filename": "秀琴65C红色1A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "103",
+    "color_name": "瓷青绿",
+    "rgb": [
+      141,
+      212,
+      219
+    ],
+    "filename": "曼柒103#瓷青绿.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "20",
+    "color_name": "灰绿",
+    "rgb": [
+      131,
+      124,
+      106
+    ],
+    "filename": "漫舞20灰绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "062",
+    "color_name": "浅橘色",
+    "rgb": [
+      217,
+      158,
+      117
+    ],
+    "filename": "曼柒062#浅橘色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "038",
+    "color_name": "黄唐茶",
+    "rgb": [
+      157,
+      117,
+      73
+    ],
+    "filename": "曼柒038#黄唐茶.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "60",
+    "color_name": "亚麻色A",
+    "rgb": [
+      231,
+      225,
+      214
+    ],
+    "filename": "秀琴60亚麻色A.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "3905",
+    "color_name": "灰色A",
+    "rgb": [
+      146,
+      145,
+      158
+    ],
+    "filename": "秀琴3905灰色A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "047",
+    "color_name": "黄白色",
+    "rgb": [
+      234,
+      226,
+      204
+    ],
+    "filename": "曼柒047#黄白色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "152",
+    "color_name": "暗紫罗兰",
+    "rgb": [
+      98,
+      53,
+      97
+    ],
+    "filename": "曼柒152#暗紫罗兰.png"
+  },
+  {
+    "brand": "千型",
+    "code": "J",
+    "color_name": "",
+    "rgb": [
+      215,
+      157,
+      88
+    ],
+    "filename": "千型J.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "010",
+    "color_name": "沙棕色",
+    "rgb": [
+      113,
+      82,
+      52
+    ],
+    "filename": "曼柒010#沙棕色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1031_2104",
+    "color_name": "黄色A",
+    "rgb": [
+      245,
+      201,
+      88
+    ],
+    "filename": "秀琴1031_2104黄色A.png"
+  },
+  {
+    "brand": "千型",
+    "code": "S",
+    "color_name": "纯黑色",
+    "rgb": [
+      34,
+      33,
+      35
+    ],
+    "filename": "千型S纯黑色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1B_0403灰白色",
+    "color_name": "A",
+    "rgb": [
+      50,
+      44,
+      47
+    ],
+    "filename": "秀琴1B_0403灰白色#A.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "155",
+    "color_name": "栗紫",
+    "rgb": [
+      83,
+      50,
+      59
+    ],
+    "filename": "曼柒155#栗紫.png"
+  },
+  {
+    "brand": "千型",
+    "code": "F",
+    "color_name": "",
+    "rgb": [
+      166,
+      61,
+      52
+    ],
+    "filename": "千型F.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C075",
+    "color_name": "柚子黄",
+    "rgb": [
+      210,
+      168,
+      119
+    ],
+    "filename": "漫供C075柚子黄.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "067",
+    "color_name": "奶油黄",
+    "rgb": [
+      214,
+      158,
+      65
+    ],
+    "filename": "曼柒067#奶油黄.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "04C",
+    "color_name": "红色C",
+    "rgb": [
+      123,
+      28,
+      38
+    ],
+    "filename": "秀琴04C红色C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "041",
+    "color_name": "白茶色",
+    "rgb": [
+      149,
+      122,
+      88
+    ],
+    "filename": "曼柒041#白茶色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C072",
+    "color_name": "激光蓝",
+    "rgb": [
+      114,
+      180,
+      240
+    ],
+    "filename": "漫供C072激光蓝.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "30A",
+    "color_name": "棕色1A",
+    "rgb": [
+      87,
+      56,
+      33
+    ],
+    "filename": "秀琴30A棕色1A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C094",
+    "color_name": "黛蓝",
+    "rgb": [
+      63,
+      85,
+      110
+    ],
+    "filename": "漫供C094黛蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "013",
+    "color_name": "媚茶色",
+    "rgb": [
+      105,
+      74,
+      52
+    ],
+    "filename": "曼柒013#媚茶色.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "9",
+    "color_name": "奶金",
+    "rgb": [
+      222,
+      210,
+      183
+    ],
+    "filename": "漫美纯色9奶金.png"
+  },
+  {
+    "brand": "千型",
+    "code": "32",
+    "color_name": "",
+    "rgb": [
+      162,
+      49,
+      85
+    ],
+    "filename": "千型32.png"
+  },
+  {
+    "brand": "千型",
+    "code": "N",
+    "color_name": "",
+    "rgb": [
+      81,
+      156,
+      156
+    ],
+    "filename": "千型N.png"
+  },
+  {
+    "brand": "千型",
+    "code": "U",
+    "color_name": "",
+    "rgb": [
+      58,
+      82,
+      189
+    ],
+    "filename": "千型U.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4020",
+    "color_name": "蓝色B",
+    "rgb": [
+      140,
+      166,
+      226
+    ],
+    "filename": "秀琴4020蓝色B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1025黄1",
+    "color_name": "B",
+    "rgb": [
+      217,
+      195,
+      160
+    ],
+    "filename": "秀琴1025黄1#B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "127",
+    "color_name": "紫藤灰",
+    "rgb": [
+      170,
+      154,
+      158
+    ],
+    "filename": "曼柒127#紫藤灰.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C076",
+    "color_name": "极度青",
+    "rgb": [
+      224,
+      239,
+      234
+    ],
+    "filename": "漫供C076极度青.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "006",
+    "color_name": "黑灰色",
+    "rgb": [
+      65,
+      64,
+      63
+    ],
+    "filename": "曼柒006#黑灰色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C093",
+    "color_name": "亚麻青",
+    "rgb": [
+      172,
+      156,
+      124
+    ],
+    "filename": "漫供C093亚麻青.png"
+  },
+  {
+    "brand": "千型",
+    "code": "Q",
+    "color_name": "",
+    "rgb": [
+      135,
+      154,
+      194
+    ],
+    "filename": "千型Q.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2",
+    "color_name": "黑色B",
+    "rgb": [
+      33,
+      26,
+      24
+    ],
+    "filename": "秀琴2黑色B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "007",
+    "color_name": "自然黑",
+    "rgb": [
+      28,
+      28,
+      28
+    ],
+    "filename": "曼柒007#自然黑.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "075",
+    "color_name": "嫩葱绿",
+    "rgb": [
+      152,
+      159,
+      110
+    ],
+    "filename": "曼柒075#嫩葱绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "153",
+    "color_name": "堇色",
+    "rgb": [
+      55,
+      47,
+      86
+    ],
+    "filename": "曼柒153#堇色.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "21",
+    "color_name": "冰蓝",
+    "rgb": [
+      150,
+      210,
+      239
+    ],
+    "filename": "漫美纯色21冰蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C052",
+    "color_name": "浅藕粉色",
+    "rgb": [
+      223,
+      204,
+      205
+    ],
+    "filename": "漫供C052浅藕粉色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "085",
+    "color_name": "绿色",
+    "rgb": [
+      2,
+      121,
+      66
+    ],
+    "filename": "曼柒085#绿色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "176",
+    "color_name": "",
+    "rgb": [
+      238,
+      125,
+      159
+    ],
+    "filename": "曼柒176#.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "6319",
+    "color_name": "绿色A",
+    "rgb": [
+      118,
+      155,
+      141
+    ],
+    "filename": "秀琴6319绿色A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H004",
+    "color_name": "混淡粉色",
+    "rgb": [
+      240,
+      225,
+      230
+    ],
+    "filename": "漫供H004混淡粉色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "088",
+    "color_name": "月村",
+    "rgb": [
+      44,
+      59,
+      69
+    ],
+    "filename": "曼柒088#月村.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "156",
+    "color_name": "茜红",
+    "rgb": [
+      128,
+      47,
+      70
+    ],
+    "filename": "曼柒156#茜红.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C060",
+    "color_name": "宝蓝",
+    "rgb": [
+      54,
+      79,
+      164
+    ],
+    "filename": "漫供C060宝蓝.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4134",
+    "color_name": "蓝3A",
+    "rgb": [
+      162,
+      179,
+      213
+    ],
+    "filename": "秀琴4134蓝3A.png"
+  },
+  {
+    "brand": "千型",
+    "code": "29",
+    "color_name": "",
+    "rgb": [
+      166,
+      80,
+      110
+    ],
+    "filename": "千型29.png"
+  },
+  {
+    "brand": "Unknown",
+    "code": "秀琴  0953黄1#A",
+    "color_name": "Unknown",
+    "rgb": [
+      197,
+      146,
+      83
+    ],
+    "filename": "秀琴  0953黄1#A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C113",
+    "color_name": "",
+    "rgb": [
+      114,
+      85,
+      64
+    ],
+    "filename": "漫供C113.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C057",
+    "color_name": "蓝",
+    "rgb": [
+      86,
+      98,
+      161
+    ],
+    "filename": "漫供C057蓝.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1109",
+    "color_name": "青灰色D",
+    "rgb": [
+      116,
+      105,
+      67
+    ],
+    "filename": "秀琴1109青灰色D.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C005",
+    "color_name": "奶奶灰",
+    "rgb": [
+      173,
+      172,
+      184
+    ],
+    "filename": "漫供C005奶奶灰.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "04",
+    "color_name": "薄荷绿",
+    "rgb": [
+      153,
+      166,
+      150
+    ],
+    "filename": "漫舞04薄荷绿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z015",
+    "color_name": "红",
+    "rgb": [
+      204,
+      76,
+      60
+    ],
+    "filename": "漫供Z015红.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "74C",
+    "color_name": "绿色1A",
+    "rgb": [
+      72,
+      92,
+      53
+    ],
+    "filename": "秀琴74C绿色1A.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "24",
+    "color_name": "水蓝",
+    "rgb": [
+      167,
+      227,
+      249
+    ],
+    "filename": "漫舞24水蓝.png"
+  },
+  {
+    "brand": "漫萝",
+    "code": "CZF-XTF2202",
+    "color_name": "龙焰",
+    "rgb": [
+      238,
+      113,
+      50
+    ],
+    "filename": "漫萝CZF-XTF2202龙焰.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "4825",
+    "color_name": "蓝3D",
+    "rgb": [
+      101,
+      179,
+      211
+    ],
+    "filename": "秀琴4825蓝3D.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C118",
+    "color_name": "",
+    "rgb": [
+      108,
+      98,
+      90
+    ],
+    "filename": "漫供C118.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2127",
+    "color_name": "红色1C",
+    "rgb": [
+      231,
+      72,
+      157
+    ],
+    "filename": "秀琴2127红色1C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "080",
+    "color_name": "艾绿色",
+    "rgb": [
+      86,
+      182,
+      106
+    ],
+    "filename": "曼柒080#艾绿色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C028",
+    "color_name": "酒红色",
+    "rgb": [
+      116,
+      47,
+      47
+    ],
+    "filename": "漫供C028酒红色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "161",
+    "color_name": "淡绯",
+    "rgb": [
+      177,
+      120,
+      113
+    ],
+    "filename": "曼柒161#淡绯.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "119",
+    "color_name": "灰蓝",
+    "rgb": [
+      42,
+      54,
+      69
+    ],
+    "filename": "曼柒119#灰蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "028",
+    "color_name": "深牡丹",
+    "rgb": [
+      117,
+      23,
+      27
+    ],
+    "filename": "曼柒028#深牡丹.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "056",
+    "color_name": "",
+    "rgb": [
+      248,
+      195,
+      136
+    ],
+    "filename": "曼柒056#.png"
+  },
+  {
+    "brand": "漫美混色",
+    "code": "7",
+    "color_name": "冰蓝混白",
+    "rgb": [
+      185,
+      214,
+      234
+    ],
+    "filename": "漫美混色7冰蓝混白.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C064",
+    "color_name": "冰蓝",
+    "rgb": [
+      209,
+      220,
+      245
+    ],
+    "filename": "漫供C064冰蓝.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "22",
+    "color_name": "黄",
+    "rgb": [
+      230,
+      186,
+      85
+    ],
+    "filename": "漫美纯22黄.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H003",
+    "color_name": "混银白色",
+    "rgb": [
+      231,
+      230,
+      238
+    ],
+    "filename": "漫供H003混银白色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "011",
+    "color_name": "黄褐色",
+    "rgb": [
+      141,
+      102,
+      56
+    ],
+    "filename": "曼柒011#黄褐色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C108",
+    "color_name": "",
+    "rgb": [
+      140,
+      79,
+      74
+    ],
+    "filename": "漫供C108.png"
+  },
+  {
+    "brand": "千型",
+    "code": "30",
+    "color_name": "",
+    "rgb": [
+      163,
+      111,
+      134
+    ],
+    "filename": "千型30.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "27",
+    "color_name": "棕色3B",
+    "rgb": [
+      162,
+      128,
+      79
+    ],
+    "filename": "秀琴27棕色3B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "081",
+    "color_name": "油绿",
+    "rgb": [
+      2,
+      137,
+      58
+    ],
+    "filename": "曼柒081#油绿.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C068",
+    "color_name": "烟熏蓝",
+    "rgb": [
+      122,
+      145,
+      191
+    ],
+    "filename": "漫供C068烟熏蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C081",
+    "color_name": "亚光粉",
+    "rgb": [
+      197,
+      141,
+      141
+    ],
+    "filename": "漫供C081亚光粉.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "182",
+    "color_name": "浅水粉",
+    "rgb": [
+      241,
+      194,
+      204
+    ],
+    "filename": "曼柒182#浅水粉.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C036",
+    "color_name": "暗枣红色",
+    "rgb": [
+      59,
+      40,
+      49
+    ],
+    "filename": "漫供C036暗枣红色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "175",
+    "color_name": "橘粉色",
+    "rgb": [
+      249,
+      125,
+      120
+    ],
+    "filename": "曼柒175#橘粉色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z024",
+    "color_name": "玛瑙红",
+    "rgb": [
+      156,
+      74,
+      59
+    ],
+    "filename": "漫供Z024玛瑙红.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "139",
+    "color_name": "",
+    "rgb": [
+      93,
+      91,
+      119
+    ],
+    "filename": "曼柒139#.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "072",
+    "color_name": "浅春绿",
+    "rgb": [
+      205,
+      219,
+      190
+    ],
+    "filename": "曼柒072#浅春绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "086",
+    "color_name": "碧绿",
+    "rgb": [
+      3,
+      115,
+      96
+    ],
+    "filename": "曼柒086#碧绿.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "29",
+    "color_name": "橘",
+    "rgb": [
+      226,
+      177,
+      152
+    ],
+    "filename": "漫美纯29橘.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C084",
+    "color_name": "碳灰",
+    "rgb": [
+      94,
+      91,
+      95
+    ],
+    "filename": "漫供C084碳灰.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C116",
+    "color_name": "",
+    "rgb": [
+      72,
+      48,
+      51
+    ],
+    "filename": "漫供C116.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C047",
+    "color_name": "中国红",
+    "rgb": [
+      226,
+      84,
+      72
+    ],
+    "filename": "漫供C047中国红.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "157",
+    "color_name": "桑染",
+    "rgb": [
+      125,
+      56,
+      72
+    ],
+    "filename": "曼柒157#桑染.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "169",
+    "color_name": "锦葵",
+    "rgb": [
+      217,
+      96,
+      144
+    ],
+    "filename": "曼柒169#锦葵.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1064金1",
+    "color_name": "AB",
+    "rgb": [
+      244,
+      183,
+      96
+    ],
+    "filename": "秀琴1064金1#AB.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z006",
+    "color_name": "奶黄色",
+    "rgb": [
+      230,
+      215,
+      188
+    ],
+    "filename": "漫供Z006奶黄色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "057",
+    "color_name": "琥珀色",
+    "rgb": [
+      155,
+      89,
+      44
+    ],
+    "filename": "曼柒057#琥珀色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2333",
+    "color_name": "粉红色B",
+    "rgb": [
+      245,
+      207,
+      208
+    ],
+    "filename": "秀琴2333粉红色B.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C074",
+    "color_name": "激光绿",
+    "rgb": [
+      49,
+      170,
+      178
+    ],
+    "filename": "漫供C074激光绿.png"
+  },
+  {
+    "brand": "秀琴银色银白",
+    "code": "1",
+    "color_name": "A",
+    "rgb": [
+      181,
+      181,
+      181
+    ],
+    "filename": "秀琴银色银白1#A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C048",
+    "color_name": "淡粉紫色",
+    "rgb": [
+      226,
+      192,
+      245
+    ],
+    "filename": "漫供C048淡粉紫色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C021",
+    "color_name": "墨蓝",
+    "rgb": [
+      136,
+      178,
+      213
+    ],
+    "filename": "漫供C021墨蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "159",
+    "color_name": "银朱",
+    "rgb": [
+      184,
+      77,
+      83
+    ],
+    "filename": "曼柒159#银朱.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2513",
+    "color_name": "蓝色D",
+    "rgb": [
+      128,
+      215,
+      241
+    ],
+    "filename": "秀琴2513蓝色D.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C008",
+    "color_name": "蛋黄色",
+    "rgb": [
+      246,
+      191,
+      98
+    ],
+    "filename": "漫供C008蛋黄色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "109",
+    "color_name": "深青蓝",
+    "rgb": [
+      23,
+      72,
+      105
+    ],
+    "filename": "曼柒109#深青蓝.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "076",
+    "color_name": "若草色",
+    "rgb": [
+      131,
+      161,
+      91
+    ],
+    "filename": "曼柒076#若草色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C003",
+    "color_name": "古金色",
+    "rgb": [
+      251,
+      232,
+      151
+    ],
+    "filename": "漫供C003古金色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C099",
+    "color_name": "",
+    "rgb": [
+      71,
+      156,
+      175
+    ],
+    "filename": "漫供C099.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "25C",
+    "color_name": "紫色B",
+    "rgb": [
+      125,
+      108,
+      200
+    ],
+    "filename": "秀琴25C紫色B.png"
+  },
+  {
+    "brand": "千型",
+    "code": "P",
+    "color_name": "",
+    "rgb": [
+      206,
+      203,
+      204
+    ],
+    "filename": "千型P.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "10",
+    "color_name": "银灰",
+    "rgb": [
+      206,
+      206,
+      208
+    ],
+    "filename": "漫美纯色10银灰.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C001",
+    "color_name": "荧光色",
+    "rgb": [
+      202,
+      191,
+      87
+    ],
+    "filename": "漫供C001荧光色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "126",
+    "color_name": "白藤",
+    "rgb": [
+      183,
+      191,
+      212
+    ],
+    "filename": "曼柒126#白藤.png"
+  },
+  {
+    "brand": "千型",
+    "code": "11",
+    "color_name": "",
+    "rgb": [
+      117,
+      115,
+      155
+    ],
+    "filename": "千型11.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2403_4110紫1",
+    "color_name": "B",
+    "rgb": [
+      162,
+      152,
+      182
+    ],
+    "filename": "秀琴2403_4110紫1#B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "848",
+    "color_name": "黄色1C",
+    "rgb": [
+      238,
+      211,
+      141
+    ],
+    "filename": "秀琴848黄色1C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "190",
+    "color_name": "浅肌紫",
+    "rgb": [
+      179,
+      170,
+      179
+    ],
+    "filename": "曼柒190#浅肌紫.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C085",
+    "color_name": "翠绿",
+    "rgb": [
+      47,
+      113,
+      132
+    ],
+    "filename": "漫供C085翠绿.png"
+  },
+  {
+    "brand": "千型",
+    "code": "K",
+    "color_name": "",
+    "rgb": [
+      131,
+      201,
+      218
+    ],
+    "filename": "千型K.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "132",
+    "color_name": "红藤",
+    "rgb": [
+      212,
+      157,
+      190
+    ],
+    "filename": "曼柒132#红藤.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "115",
+    "color_name": "品蓝",
+    "rgb": [
+      23,
+      67,
+      152
+    ],
+    "filename": "曼柒115#品蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C027",
+    "color_name": "绿色",
+    "rgb": [
+      63,
+      139,
+      113
+    ],
+    "filename": "漫供C027绿色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "100",
+    "color_name": "玉石蓝",
+    "rgb": [
+      68,
+      86,
+      98
+    ],
+    "filename": "曼柒100#玉石蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H008",
+    "color_name": "",
+    "rgb": [
+      84,
+      63,
+      61
+    ],
+    "filename": "漫供H008.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "RED红1",
+    "color_name": "B",
+    "rgb": [
+      213,
+      88,
+      75
+    ],
+    "filename": "秀琴RED红1#B.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H010",
+    "color_name": "",
+    "rgb": [
+      190,
+      163,
+      140
+    ],
+    "filename": "漫供H010.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "3815",
+    "color_name": "紫色A",
+    "rgb": [
+      186,
+      173,
+      229
+    ],
+    "filename": "秀琴3815紫色A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C067",
+    "color_name": "金黄",
+    "rgb": [
+      241,
+      180,
+      65
+    ],
+    "filename": "漫供C067金黄.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "15C",
+    "color_name": "绿色B",
+    "rgb": [
+      67,
+      144,
+      73
+    ],
+    "filename": "秀琴15C绿色B.png"
+  },
+  {
+    "brand": "千型",
+    "code": "18",
+    "color_name": "",
+    "rgb": [
+      176,
+      167,
+      144
+    ],
+    "filename": "千型18.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C016",
+    "color_name": "蓝紫",
+    "rgb": [
+      178,
+      166,
+      239
+    ],
+    "filename": "漫供C016蓝紫.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "19",
+    "color_name": "黑咖",
+    "rgb": [
+      24,
+      21,
+      21
+    ],
+    "filename": "漫舞19黑咖.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "13",
+    "color_name": "棕色1B",
+    "rgb": [
+      103,
+      56,
+      36
+    ],
+    "filename": "秀琴13棕色1B.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "935",
+    "color_name": "黄色1D",
+    "rgb": [
+      224,
+      176,
+      112
+    ],
+    "filename": "秀琴935黄色1D.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C054",
+    "color_name": "柿粉色",
+    "rgb": [
+      203,
+      159,
+      149
+    ],
+    "filename": "漫供C054柿粉色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "171",
+    "color_name": "烟槿紫",
+    "rgb": [
+      133,
+      115,
+      139
+    ],
+    "filename": "曼柒171#烟槿紫.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "350A",
+    "color_name": "红色D",
+    "rgb": [
+      103,
+      50,
+      53
+    ],
+    "filename": "秀琴350A红色D.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "102",
+    "color_name": "白青",
+    "rgb": [
+      196,
+      215,
+      215
+    ],
+    "filename": "曼柒102#白青.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "06",
+    "color_name": "浅咖",
+    "rgb": [
+      183,
+      120,
+      83
+    ],
+    "filename": "漫舞06浅咖.png"
+  },
+  {
+    "brand": "千型",
+    "code": "Z",
+    "color_name": "",
+    "rgb": [
+      72,
+      65,
+      116
+    ],
+    "filename": "千型Z.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z001",
+    "color_name": "黑色",
+    "rgb": [
+      51,
+      49,
+      60
+    ],
+    "filename": "漫供Z001黑色.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1857",
+    "color_name": "绿色C",
+    "rgb": [
+      76,
+      164,
+      117
+    ],
+    "filename": "秀琴1857绿色C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "168",
+    "color_name": "月季",
+    "rgb": [
+      202,
+      43,
+      101
+    ],
+    "filename": "曼柒168#月季.png"
+  },
+  {
+    "brand": "漫舞",
+    "code": "21",
+    "color_name": "梅紫",
+    "rgb": [
+      92,
+      62,
+      74
+    ],
+    "filename": "漫舞21梅紫.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2520",
+    "color_name": "蓝色1A",
+    "rgb": [
+      32,
+      76,
+      179
+    ],
+    "filename": "秀琴2520蓝色1A.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C022",
+    "color_name": "孔雀蓝",
+    "rgb": [
+      82,
+      176,
+      227
+    ],
+    "filename": "漫供C022孔雀蓝.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C120",
+    "color_name": "",
+    "rgb": [
+      154,
+      162,
+      172
+    ],
+    "filename": "漫供C120.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C032",
+    "color_name": "橄榄绿",
+    "rgb": [
+      96,
+      95,
+      71
+    ],
+    "filename": "漫供C032橄榄绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "027",
+    "color_name": "酒红色",
+    "rgb": [
+      91,
+      31,
+      36
+    ],
+    "filename": "曼柒027#酒红色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C087",
+    "color_name": "暖粉",
+    "rgb": [
+      238,
+      181,
+      184
+    ],
+    "filename": "漫供C087暖粉.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "2614",
+    "color_name": "绿色1D",
+    "rgb": [
+      16,
+      42,
+      35
+    ],
+    "filename": "秀琴2614绿色1D.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "052",
+    "color_name": "蒸栗子",
+    "rgb": [
+      177,
+      151,
+      90
+    ],
+    "filename": "曼柒052#蒸栗子.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "151",
+    "color_name": "紫风信子",
+    "rgb": [
+      97,
+      60,
+      113
+    ],
+    "filename": "曼柒151#紫风信子.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "108",
+    "color_name": "靛青",
+    "rgb": [
+      2,
+      91,
+      128
+    ],
+    "filename": "曼柒108#靛青.png"
+  },
+  {
+    "brand": "漫美纯",
+    "code": "34",
+    "color_name": "浅绿",
+    "rgb": [
+      127,
+      150,
+      141
+    ],
+    "filename": "漫美纯34浅绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "092",
+    "color_name": "若竹色",
+    "rgb": [
+      2,
+      173,
+      154
+    ],
+    "filename": "曼柒092#若竹色.png"
+  },
+  {
+    "brand": "漫美纯色",
+    "code": "12",
+    "color_name": "黑",
+    "rgb": [
+      43,
+      43,
+      43
+    ],
+    "filename": "漫美纯色12黑.png"
+  },
+  {
+    "brand": "漫美混色",
+    "code": "3",
+    "color_name": "蓝混白",
+    "rgb": [
+      189,
+      200,
+      218
+    ],
+    "filename": "漫美混色3蓝混白.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "3952蓝2",
+    "color_name": "B（蓝色2D）",
+    "rgb": [
+      36,
+      70,
+      141
+    ],
+    "filename": "秀琴3952蓝2#B（蓝色2D）.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z019",
+    "color_name": "黑棕色",
+    "rgb": [
+      61,
+      54,
+      57
+    ],
+    "filename": "漫供Z019黑棕色.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "Z011",
+    "color_name": "巧克力色",
+    "rgb": [
+      80,
+      68,
+      66
+    ],
+    "filename": "漫供Z011巧克力色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "142",
+    "color_name": "蓝槿紫",
+    "rgb": [
+      95,
+      80,
+      133
+    ],
+    "filename": "曼柒142#蓝槿紫.png"
+  },
+  {
+    "brand": "漫美混",
+    "code": "8",
+    "color_name": "浅紫灰",
+    "rgb": [
+      188,
+      184,
+      189
+    ],
+    "filename": "漫美混8浅紫灰.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "073",
+    "color_name": "嫩草绿",
+    "rgb": [
+      182,
+      174,
+      110
+    ],
+    "filename": "曼柒073#嫩草绿.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1632",
+    "color_name": "粉色C",
+    "rgb": [
+      254,
+      155,
+      172
+    ],
+    "filename": "秀琴1632粉色C.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "149",
+    "color_name": "暗灰紫",
+    "rgb": [
+      95,
+      76,
+      90
+    ],
+    "filename": "曼柒149#暗灰紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "094",
+    "color_name": "青瓷绿",
+    "rgb": [
+      145,
+      210,
+      201
+    ],
+    "filename": "曼柒094#青瓷绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "054",
+    "color_name": "赤金色",
+    "rgb": [
+      216,
+      171,
+      83
+    ],
+    "filename": "曼柒054#赤金色.png"
+  },
+  {
+    "brand": "千型",
+    "code": "Y",
+    "color_name": "",
+    "rgb": [
+      179,
+      188,
+      203
+    ],
+    "filename": "千型Y.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C105",
+    "color_name": "",
+    "rgb": [
+      237,
+      114,
+      140
+    ],
+    "filename": "漫供C105.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "H013",
+    "color_name": "",
+    "rgb": [
+      203,
+      164,
+      144
+    ],
+    "filename": "漫供H013.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "144",
+    "color_name": "紫郁金香",
+    "rgb": [
+      154,
+      97,
+      133
+    ],
+    "filename": "曼柒144#紫郁金香.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C117",
+    "color_name": "",
+    "rgb": [
+      244,
+      196,
+      189
+    ],
+    "filename": "漫供C117.png"
+  },
+  {
+    "brand": "秀琴",
+    "code": "1050",
+    "color_name": "棕色2B",
+    "rgb": [
+      201,
+      142,
+      79
+    ],
+    "filename": "秀琴1050棕色2B.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "174",
+    "color_name": "樱花粉",
+    "rgb": [
+      242,
+      148,
+      147
+    ],
+    "filename": "曼柒174#樱花粉.png"
+  },
+  {
+    "brand": "漫供",
+    "code": "C015",
+    "color_name": "橘红色",
+    "rgb": [
+      179,
+      96,
+      74
+    ],
+    "filename": "漫供C015橘红色.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "095",
+    "color_name": "中海绿",
+    "rgb": [
+      122,
+      195,
+      195
+    ],
+    "filename": "曼柒095#中海绿.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "137",
+    "color_name": "浅灰紫",
+    "rgb": [
+      168,
+      153,
+      188
+    ],
+    "filename": "曼柒137#浅灰紫.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "036",
+    "color_name": "",
+    "rgb": [
+      194,
+      159,
+      108
+    ],
+    "filename": "曼柒036#.png"
+  },
+  {
+    "brand": "曼柒",
+    "code": "037",
+    "color_name": "蒸栗色",
+    "rgb": [
+      151,
+      136,
+      96
+    ],
+    "filename": "曼柒037#蒸栗色.png"
+  }
+]
