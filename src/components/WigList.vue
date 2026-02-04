@@ -34,7 +34,7 @@ const getWigImage = (filename) => {
       <div class="text-center w-full">
         <h3 class="font-bold text-gray-800 text-sm truncate w-full">{{ wig.brand }} {{ wig.code }}</h3>
         <p class="text-xs text-gray-600 truncate w-full">{{ wig.color_name }}</p>
-        <span class="text-[10px] text-gray-400 mt-1 block">匹配度: {{ formatDistance(wig.distance) }}</span>
+        <span class="text-[10px] text-gray-400 mt-1 block">色差 ΔE: {{ formatDistance(wig.distance) }}</span>
       </div>
     </div>
   </div>
