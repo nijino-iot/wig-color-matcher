@@ -7,17 +7,61 @@ const emit = defineEmits(['update:modelValue', 'colorSelected'])
 const fileInput = ref(null)
 const canvasRef = ref(null)
 const imageSrc = ref(null)
+const isDragging = ref(false)
+
+// Adjustment parameters
+const brightness = ref(100) // 100 = original
+const contrast = ref(100) // 100 = original
+const saturation = ref(100) // 100 = original
+const hue = ref(0) // 0 = original, in degrees
 
 const onFileChange = (e) => {
   const file = e.target.files[0]
   if (!file) return
   
+  processImageFile(file)
+}
+
+const processImageFile = (file) => {
   const reader = new FileReader()
   reader.onload = (event) => {
     imageSrc.value = event.target.result
     drawImage()
   }
   reader.readAsDataURL(file)
+}
+
+// Drag and drop handlers
+const handleDragEnter = (e) => {
+  e.preventDefault()
+  e.stopPropagation()
+  isDragging.value = true
+}
+
+const handleDragLeave = (e) => {
+  e.preventDefault()
+  e.stopPropagation()
+  isDragging.value = false
+}
+
+const handleDragOver = (e) => {
+  e.preventDefault()
+  e.stopPropagation()
+}
+
+const handleDrop = (e) => {
+  e.preventDefault()
+  e.stopPropagation()
+  isDragging.value = false
+  
+  const files = e.dataTransfer.files
+  if (files.length > 0) {
+    const file = files[0]
+    // Only process image files
+    if (file.type.startsWith('image/')) {
+      processImageFile(file)
+    }
+  }
 }
 
 const drawImage = () => {
@@ -33,9 +77,140 @@ const drawImage = () => {
     canvas.width = img.width * scale
     canvas.height = img.height * scale
     
-    ctx.drawImage(img, 0, 0, canvas.width, canvas.height)
+    // Apply adjustments
+    applyAdjustments(ctx, img, canvas.width, canvas.height)
   }
   img.src = imageSrc.value
+}
+
+const applyAdjustments = (ctx, img, width, height) => {
+  // First, draw the original image
+  ctx.clearRect(0, 0, width, height)
+  ctx.drawImage(img, 0, 0, width, height)
+  
+  // Get image data to apply adjustments
+  const imageData = ctx.getImageData(0, 0, width, height)
+  const data = imageData.data
+  
+  // Apply adjustments to each pixel
+  for (let i = 0; i < data.length; i += 4) {
+    let r = data[i]
+    let g = data[i + 1]
+    let b = data[i + 2]
+    
+    // Apply brightness adjustment
+    if (brightness.value !== 100) {
+      r = r * (brightness.value / 100)
+      g = g * (brightness.value / 100)
+      b = b * (brightness.value / 100)
+    }
+    
+    // Apply contrast adjustment
+    if (contrast.value !== 100) {
+      const factor = (259 * (contrast.value + 255)) / (255 * (259 - contrast.value))
+      r = factor * (r - 128) + 128
+      g = factor * (g - 128) + 128
+      b = factor * (b - 128) + 128
+    }
+    
+    // Apply saturation adjustment
+    if (saturation.value !== 100) {
+      // Convert to grayscale
+      const gray = 0.2989 * r + 0.5870 * g + 0.1140 * b
+      const satFactor = saturation.value / 100
+      
+      r = gray + satFactor * (r - gray)
+      g = gray + satFactor * (g - gray)
+      b = gray + satFactor * (b - gray)
+    }
+    
+    // Apply hue adjustment (simplified version)
+    if (hue.value !== 0) {
+      // Convert RGB to HSL
+      const hsl = rgbToHsl(r, g, b)
+      // Adjust hue
+      hsl[0] = (hsl[0] + hue.value) % 360
+      if (hsl[0] < 0) hsl[0] += 360
+      
+      // Convert back to RGB
+      const newRgb = hslToRgb(hsl[0], hsl[1], hsl[2])
+      r = newRgb[0]
+      g = newRgb[1]
+      b = newRgb[2]
+    }
+    
+    // Clamp values to valid range
+    data[i] = Math.min(255, Math.max(0, r))
+    data[i + 1] = Math.min(255, Math.max(0, g))
+    data[i + 2] = Math.min(255, Math.max(0, b))
+  }
+  
+  // Put the adjusted image data back
+  ctx.putImageData(imageData, 0, 0)
+}
+
+// RGB to HSL conversion
+function rgbToHsl(r, g, b) {
+  r /= 255, g /= 255, b /= 255;
+
+  const max = Math.max(r, g, b), min = Math.min(r, g, b);
+  let h, s, l = (max + min) / 2;
+
+  if (max === min) {
+    h = s = 0; // achromatic
+  } else {
+    const d = max - min;
+    s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+    
+    switch (max) {
+      case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+      case g: h = (b - r) / d + 2; break;
+      case b: h = (r - g) / d + 4; break;
+    }
+    
+    h /= 6;
+  }
+
+  return [
+    Math.round(h * 360),
+    Math.round(s * 100),
+    Math.round(l * 100)
+  ];
+}
+
+// HSL to RGB conversion
+function hslToRgb(h, s, l) {
+  h /= 360;
+  s /= 100;
+  l /= 100;
+
+  let r, g, b;
+
+  if (s === 0) {
+    r = g = b = l; // achromatic
+  } else {
+    const hue2rgb = (p, q, t) => {
+      if (t < 0) t += 1;
+      if (t > 1) t -= 1;
+      if (t < 1/6) return p + (q - p) * 6 * t;
+      if (t < 1/2) return q;
+      if (t < 2/3) return p + (q - p) * (2/3 - t) * 6;
+      return p;
+    };
+
+    const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+    const p = 2 * l - q;
+    
+    r = hue2rgb(p, q, h + 1/3);
+    g = hue2rgb(p, q, h);
+    b = hue2rgb(p, q, h - 1/3);
+  }
+
+  return [
+    Math.round(r * 255),
+    Math.round(g * 255),
+    Math.round(b * 255)
+  ];
 }
 
 const magnifier = ref({
@@ -116,21 +291,36 @@ const pickColor = (event) => {
   const safeX = Math.min(Math.max(0, x), canvas.width - 1)
   const safeY = Math.min(Math.max(0, y), canvas.height - 1)
   
-  const pixel = ctx.getImageData(safeX, safeY, 1, 1).data
-  const rgb = [pixel[0], pixel[1], pixel[2]]
-  
-  // Update Magnifier
-  magnifier.value = {
-    show: true,
-    x: (clientX - rect.left), // UI position (relative to canvas container)
-    y: (clientY - rect.top),
-    color: rgb
-  }
-  
-  // Wait for next tick to draw on magnifier canvas
-  setTimeout(() => drawMagnifier(safeX, safeY), 0)
+  // Get the adjusted pixel data (apply adjustments to the original image first)
+  const img = new Image()
+  img.src = imageSrc.value
+  img.onload = () => {
+    // Create a temporary canvas to get the original pixel
+    const tempCanvas = document.createElement('canvas')
+    const tempCtx = tempCanvas.getContext('2d')
+    tempCanvas.width = canvas.width
+    tempCanvas.height = canvas.height
+    
+    // Apply the same adjustments to the temporary canvas
+    applyAdjustments(tempCtx, img, tempCanvas.width, tempCanvas.height)
+    
+    // Get the pixel color after adjustments
+    const pixel = tempCtx.getImageData(safeX, safeY, 1, 1).data
+    const rgb = [pixel[0], pixel[1], pixel[2]]
+    
+    // Update Magnifier
+    magnifier.value = {
+      show: true,
+      x: (clientX - rect.left), // UI position (relative to canvas container)
+      y: (clientY - rect.top),
+      color: rgb
+    }
+    
+    // Wait for next tick to draw on magnifier canvas
+    setTimeout(() => drawMagnifier(safeX, safeY), 0)
 
-  emit('colorSelected', rgb)
+    emit('colorSelected', rgb)
+  }
 }
 
 // Handle drag for better mobile experience
@@ -143,6 +333,12 @@ const triggerUpload = () => {
   fileInput.value.click()
 }
 
+// Watch for adjustment changes and redraw image
+watch([brightness, contrast, saturation, hue], () => {
+  if (imageSrc.value) {
+    drawImage()
+  }
+})
 </script>
 
 <template>
@@ -158,10 +354,22 @@ const triggerUpload = () => {
     <div 
       v-if="!imageSrc"
       @click="triggerUpload"
-      class="w-64 h-64 border-2 border-dashed border-gray-300 rounded-lg flex flex-col items-center justify-center cursor-pointer hover:border-blue-500 bg-gray-50"
+      @dragenter="handleDragEnter"
+      @dragover="handleDragOver"
+      @dragleave="handleDragLeave"
+      @drop="handleDrop"
+      class="w-64 h-64 border-2 border-dashed rounded-lg flex flex-col items-center justify-center cursor-pointer bg-gray-50"
+      :class="{
+        'border-blue-500 bg-blue-50': isDragging,
+        'border-gray-300 hover:border-[#df6f92]': !isDragging
+      }"
     >
       <span class="text-4xl mb-2">📷</span>
-      <span class="text-gray-500">点击上传图片</span>
+      <span class="text-gray-500 text-center">
+        <span v-if="!isDragging">点击上传图片</span>
+        <span v-else class="text-[#df6f92]">释放以上传</span>
+      </span>
+      <p class="text-xs text-gray-400 mt-1">或拖拽图片至此</p>
     </div>
 
     <div v-else class="relative touch-none select-none">
@@ -199,9 +407,77 @@ const triggerUpload = () => {
 
       <button 
         @click="triggerUpload"
-        class="mt-4 text-sm text-blue-600 hover:text-blue-800 underline block mx-auto"
+        class="mt-4 text-sm block mx-auto"
+        :style="{color: '#df6f92'}"
       >
         换一张图
+      </button>
+    </div>
+
+    <!-- Adjustment Controls -->
+    <div v-if="imageSrc" class="w-full max-w-md bg-white p-4 rounded-lg shadow-sm">
+      <h3 class="font-medium text-gray-700 mb-3">图片调整</h3>
+      <div class="space-y-4">
+        <!-- Brightness -->
+        <div>
+          <label class="block text-sm text-gray-600 mb-1">亮度: {{ brightness }}%</label>
+          <input 
+            v-model.number="brightness"
+            type="range" 
+            min="0" 
+            max="200" 
+            step="1"
+            class="w-full"
+          />
+        </div>
+        
+        <!-- Contrast -->
+        <div>
+          <label class="block text-sm text-gray-600 mb-1">对比度: {{ contrast }}%</label>
+          <input 
+            v-model.number="contrast"
+            type="range" 
+            min="0" 
+            max="200" 
+            step="1"
+            class="w-full"
+          />
+        </div>
+        
+        <!-- Saturation -->
+        <div>
+          <label class="block text-sm text-gray-600 mb-1">饱和度: {{ saturation }}%</label>
+          <input 
+            v-model.number="saturation"
+            type="range" 
+            min="0" 
+            max="200" 
+            step="1"
+            class="w-full"
+          />
+        </div>
+        
+        <!-- Hue -->
+        <div>
+          <label class="block text-sm text-gray-600 mb-1">色相: {{ hue }}°</label>
+          <input 
+            v-model.number="hue"
+            type="range" 
+            min="-180" 
+            max="180" 
+            step="1"
+            class="w-full"
+          />
+        </div>
+      </div>
+      
+      <!-- Reset button -->
+      <button 
+        @click="[brightness, contrast, saturation, hue] = [100, 100, 100, 0]"
+        class="mt-3 text-sm hover:underline"
+        :style="{color: '#df6f92'}"
+      >
+        重置调整
       </button>
     </div>
   </div>
